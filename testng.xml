@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<parameter name="url" value="https://www.lambdatest.com/selenium-playground/" />
+  <test name="Test">
+  		<parameter name="browser" value="Chrome" />
+		<parameter name="browser" value="Chrome" />
+		<parameter name="version" value="88.0" />
+		<parameter name="platform" value="Windows 10" />
+		<classes>
+      <class name="testNG_TestCases.Testng_Test_1"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
