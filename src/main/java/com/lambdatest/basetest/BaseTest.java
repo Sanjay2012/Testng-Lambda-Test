@@ -76,7 +76,7 @@ public class BaseTest {
 
 	@AfterMethod
 	public void tearDown() {
-		Reporter.log("Ending the Test Method", true);
+		Reporter.log("<+======Ending the Test Method =====>", true);
 		Reporter.log("Closing the browser session", true);
 		driver.executeScript("lambda-status=" + Status);
 		driver.quit();

@@ -1,40 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Suite">
+<suite name="Cross Browser Single Test">
+	<parameter name="url"
+		value="https://www.lambdatest.com/selenium-playground/" />
 	<test name="Chrome Browser Testing">
 		<parameter name="browser" value="Chrome" />
 		<parameter name="version" value="88.0" />
 		<parameter name="platform" value="Windows 10" />
-		<parameter name="url"	value="https://www.lambdatest.com/selenium-playground/"/>
 		<classes>
-			<class name="com.lambdatest.LambdaTest_1" />
-			<class name="com.lambdatest.LambdaTest_2" />
-			<class name="com.lambdatest.LambdaTest_3" />
+			<class name="testNG_TestCases.Testng_Test1" />
+			<class name="testNG_TestCases.Testng_Test2" />
+			<class name="testNG_TestCases.Testng_Test3" />
 		</classes>
 	</test> <!-- Test -->
 
 	<test name="Edge Browser Testing">
 		<parameter name="browser" value="Edge" />
-		<parameter name="version" value="88.0" />
+		<parameter name="version" value="87.0" />
 		<parameter name="platform" value="macOS Sierra" />
-		<parameter name="url"	value="https://www.lambdatest.com/selenium-playground/"/>
 		<classes>
-			<class name="com.lambdatest.LambdaTest_1" />
-			<class name="com.lambdatest.LambdaTest_2" />
-			<class name="com.lambdatest.LambdaTest_3" />
-			
+			<class name="testNG_TestCases.Testng_Test1" />
+			<class name="testNG_TestCases.Testng_Test2" />
+			<class name="testNG_TestCases.Testng_Test3" />
+
 		</classes>
 	</test> <!-- Test -->
 
 	<test name="Firefox Browser Testing">
 		<parameter name="browser" value="Firefox" />
 		<parameter name="version" value="82.0" />
-		<parameter name="platform" value="Windows 7" />
-		<parameter name="url"	value="https://www.lambdatest.com/selenium-playground/"/>
+		<parameter name="platform" value="macOS Sierra" />
 		<classes>
-			<class name="com.lambdatest.LambdaTest_1" />
-			<class name="com.lambdatest.LambdaTest_2" />
-			<class name="com.lambdatest.LambdaTest_3" />
+			<class name="testNG_TestCases.Testng_Test1" />
+			<class name="testNG_TestCases.Testng_Test2" />
+			<class name="testNG_TestCases.Testng_Test3" />
 		</classes>
 	</test> <!-- Test -->
 
@@ -42,11 +41,10 @@
 		<parameter name="browser" value="Internet Explorer" />
 		<parameter name="version" value="11.0" />
 		<parameter name="platform" value="Windows 10" />
-		<parameter name="url"	value="https://www.lambdatest.com/selenium-playground/"/>
 		<classes>
-			<class name="com.lambdatest.LambdaTest_1" />
-			<class name="com.lambdatest.LambdaTest_2" />
-			<class name="com.lambdatest.LambdaTest_3" />
+			<class name="testNG_TestCases.Testng_Test1" />
+			<class name="testNG_TestCases.Testng_Test2" />
+			<class name="testNG_TestCases.Testng_Test3" />
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->

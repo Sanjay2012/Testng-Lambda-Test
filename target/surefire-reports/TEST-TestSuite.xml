@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="15.925" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="241.275" tests="24" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="12.0.2+10"/>
@@ -35,7 +35,7 @@
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="os.version" value="10.0"/>
     <property name="library.jansi.path" value="C:\Program Files\apache-maven-3.8.4\lib\jansi-native"/>
-    <property name="surefire.suiteXmlFiles" value="testng.xml"/>
+    <property name="surefire.suiteXmlFiles" value="single.xml,parallel.xml"/>
     <property name="user.home" value="C:\Users\Dell"/>
     <property name="user.timezone" value="Asia/Calcutta"/>
     <property name="file.encoding" value="Cp1252"/>
@@ -44,7 +44,7 @@
     <property name="java.class.path" value="C:\Program Files\apache-maven-3.8.4\boot\plexus-classworlds-2.6.0.jar"/>
     <property name="java.vm.specification.version" value="12"/>
     <property name="sun.arch.data.model" value="64"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean test -Dsurefire.suiteXmlFiles=testng.xml"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean test -Dsurefire.suiteXmlFiles=single.xml,parallel.xml"/>
     <property name="java.home" value="C:\Program Files\Java\jdk-12.0.2"/>
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
@@ -63,5 +63,28 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase name="pageTitleValidation" classname="testNG_TestCases.Testng_Test_1" time="0.411"/>
+  <testcase name="pageTitleValidation" classname="testNG_TestCases.Testng_Test1" time="0.654"/>
+  <testcase name="pageTitleValidation" classname="testNG_TestCases.Testng_Test1" time="0.618"/>
+  <testcase name="pageTitleValidation" classname="testNG_TestCases.Testng_Test1" time="0.539"/>
+  <testcase name="pageTitleValidation" classname="testNG_TestCases.Testng_Test1" time="0.62"/>
+  <testcase name="pageTitleValidation" classname="testNG_TestCases.Testng_Test1" time="0.602"/>
+  <testcase name="pageTitleValidation" classname="testNG_TestCases.Testng_Test1" time="0.478"/>
+  <testcase name="pageTitleValidation" classname="testNG_TestCases.Testng_Test1" time="0.387"/>
+  <testcase name="pageTitleValidation" classname="testNG_TestCases.Testng_Test1" time="0.631"/>
+  <testcase name="checkBoxValidation" classname="testNG_TestCases.Testng_Test2" time="1.325"/>
+  <testcase name="checkBoxValidation" classname="testNG_TestCases.Testng_Test2" time="1.338"/>
+  <testcase name="checkBoxValidation" classname="testNG_TestCases.Testng_Test2" time="1.308"/>
+  <testcase name="checkBoxValidation" classname="testNG_TestCases.Testng_Test2" time="1.962"/>
+  <testcase name="checkBoxValidation" classname="testNG_TestCases.Testng_Test2" time="1.097"/>
+  <testcase name="checkBoxValidation" classname="testNG_TestCases.Testng_Test2" time="0.979"/>
+  <testcase name="checkBoxValidation" classname="testNG_TestCases.Testng_Test2" time="1.269"/>
+  <testcase name="checkBoxValidation" classname="testNG_TestCases.Testng_Test2" time="1.445"/>
+  <testcase name="handlingJavaScriptAlertBox" classname="testNG_TestCases.Testng_Test3" time="0.696"/>
+  <testcase name="handlingJavaScriptAlertBox" classname="testNG_TestCases.Testng_Test3" time="0.817"/>
+  <testcase name="handlingJavaScriptAlertBox" classname="testNG_TestCases.Testng_Test3" time="0.662"/>
+  <testcase name="handlingJavaScriptAlertBox" classname="testNG_TestCases.Testng_Test3" time="0.82"/>
+  <testcase name="handlingJavaScriptAlertBox" classname="testNG_TestCases.Testng_Test3" time="0.67"/>
+  <testcase name="handlingJavaScriptAlertBox" classname="testNG_TestCases.Testng_Test3" time="0.574"/>
+  <testcase name="handlingJavaScriptAlertBox" classname="testNG_TestCases.Testng_Test3" time="0.528"/>
+  <testcase name="handlingJavaScriptAlertBox" classname="testNG_TestCases.Testng_Test3" time="0.971"/>
 </testsuite>
