@@ -5,6 +5,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.time.Duration;
 
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
@@ -20,11 +21,12 @@ import org.testng.asserts.SoftAssert;
 
 public class BaseTest {
 	protected RemoteWebDriver driver=null;
-	protected String Status = "failed";
+	protected String Status = "passed";
 	protected Actions act;
 	protected SoftAssert soft = new SoftAssert();
 	protected Select select;
 	protected WebDriverWait wait;
+	protected JavascriptExecutor js;
 
 	
 	@BeforeMethod
@@ -33,7 +35,7 @@ public class BaseTest {
 			throws MalformedURLException {
 		Reporter.log("<===== Start of Test Method =====>");
 		String username = "sanjaywaware04";
-		String accesskey = "fSImr5qgF3iOZPecUiFmSXHJDDmbzvXmcsi7ExEz7UHlMBkMCE";
+		String accesskey = "i6I2yqGQJTSjxYMwkhvy3LHTBHin6XJmTAOpAa729s18AqC5U3";
 		String hub = "@hub.lambdatest.com/wd/hub";
 		
 		Reporter.log("Setting desired Capabilities", true);
@@ -46,7 +48,7 @@ public class BaseTest {
 		caps.setCapability("visual", true); // To enable step by step screenshot
 		caps.setCapability("video", true); // To enable video recording
 		caps.setCapability("console", true); // To capture console logs
-		caps.setCapability("build", "Selenium test-1");
+		caps.setCapability("build", "TestNG Lambda-Test");
 		caps.setCapability("name", m.getName() + this.getClass().getName());
 		caps.setCapability("plugin", "git-testng");
 		
@@ -58,20 +60,21 @@ public class BaseTest {
 		} catch (Exception e) {
 			System.out.println(e.getMessage());
 		}
+		
+		
 	}
-
+	@Parameters(value = { "url" })
 	@BeforeTest
-	@Parameters("url")
 	public void setUrl(String url) {
 		Reporter.log("Step 1:Open LambdaTest’s Selenium Playground from",true);
-		try {
-		    driver.get(url);
-			driver.manage().window().maximize();
-			driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
-			driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(20));
-		} catch (Exception e1) {
-			e1.printStackTrace();
-		}
+			try {
+				driver.get(url);
+				driver.manage().window().maximize();
+				driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
+				driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(20));
+			} catch (Exception e) {
+				e.printStackTrace();
+			}
 	}
 
 	@AfterMethod
@@ -81,5 +84,4 @@ public class BaseTest {
 		driver.executeScript("lambda-status=" + Status);
 		driver.quit();
 	}
-
 }

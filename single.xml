@@ -17,7 +17,7 @@
 	<test name="Edge Browser Testing">
 		<parameter name="browser" value="Edge" />
 		<parameter name="version" value="87.0" />
-		<parameter name="platform" value="macOS Sierra" />
+		<parameter name="platform" value="MacOS Catalina" />
 		<classes>
 			<class name="testNG_TestCases.Testng_Test1" />
 			<class name="testNG_TestCases.Testng_Test2" />
@@ -29,7 +29,7 @@
 	<test name="Firefox Browser Testing">
 		<parameter name="browser" value="Firefox" />
 		<parameter name="version" value="82.0" />
-		<parameter name="platform" value="macOS Sierra" />
+		<parameter name="platform" value="Windows 7" />
 		<classes>
 			<class name="testNG_TestCases.Testng_Test1" />
 			<class name="testNG_TestCases.Testng_Test2" />
