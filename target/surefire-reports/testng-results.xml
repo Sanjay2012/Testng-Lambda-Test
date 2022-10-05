@@ -1,26 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="16" total="40" passed="24" failed="0" skipped="0">
+<testng-results ignored="0" total="24" passed="24" failed="0" skipped="0">
   <reporter-output>
     <line>
-      <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
-    </line>
-    <line>
-      <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
-    </line>
-    <line>
-      <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
-    </line>
-    <line>
       <![CDATA[<===== Start of Test Method =====>]]>
     </line>
     <line>
       <![CDATA[Setting desired Capabilities]]>
     </line>
     <line>
-      <![CDATA[<===== Start of Test Method =====>]]>
+      <![CDATA[Connecting to hub/ Grid]]>
     </line>
     <line>
-      <![CDATA[Setting desired Capabilities]]>
+      <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
+    </line>
+    <line>
+      <![CDATA[<--------Scenario 2: Check Box  validation Started-------->]]>
+    </line>
+    <line>
+      <![CDATA[Click Checkbox Demo under Input Forms]]>
+    </line>
+    <line>
+      <![CDATA[clicked on checkbox demo link]]>
+    </line>
+    <line>
+      <![CDATA[Click the checkbox under the Single Checkbox Demo section]]>
+    </line>
+    <line>
+      <![CDATA[clicked on single checkbox]]>
+    </line>
+    <line>
+      <![CDATA[Validate whether this checkbox is selected ]]>
+    </line>
+    <line>
+      <![CDATA[Now click the checkbox again and validate whether the checkbox is unselected]]>
+    </line>
+    <line>
+      <![CDATA[<+======Ending the Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Closing the browser session]]>
     </line>
     <line>
       <![CDATA[<===== Start of Test Method =====>]]>
@@ -32,10 +50,415 @@
       <![CDATA[Connecting to hub/ Grid]]>
     </line>
     <line>
+      <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
+    </line>
+    <line>
+      <![CDATA[<--------Scenario 1: Page title validation Started-------->]]>
+    </line>
+    <line>
+      <![CDATA[Asserting wrong page Title]]>
+    </line>
+    <line>
+      <![CDATA[<+======Ending the Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Closing the browser session]]>
+    </line>
+    <line>
+      <![CDATA[<===== Start of Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Setting desired Capabilities]]>
+    </line>
+    <line>
+      <![CDATA[Connecting to hub/ Grid]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
+    </line>
+    <line>
+      <![CDATA[<--------Scenario 3: Handling Java Script Alert Box Started-------->]]>
+    </line>
+    <line>
+      <![CDATA[Click Javascript Alerts under Alerts and  Modals ]]>
+    </line>
+    <line>
+      <![CDATA[<+======Ending the Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Closing the browser session]]>
+    </line>
+    <line>
+      <![CDATA[<===== Start of Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Setting desired Capabilities]]>
+    </line>
+    <line>
+      <![CDATA[Connecting to hub/ Grid]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
+    </line>
+    <line>
+      <![CDATA[<--------Scenario 2: Check Box  validation Started-------->]]>
+    </line>
+    <line>
+      <![CDATA[Click Checkbox Demo under Input Forms]]>
+    </line>
+    <line>
+      <![CDATA[clicked on checkbox demo link]]>
+    </line>
+    <line>
+      <![CDATA[Click the checkbox under the Single Checkbox Demo section]]>
+    </line>
+    <line>
+      <![CDATA[clicked on single checkbox]]>
+    </line>
+    <line>
+      <![CDATA[Validate whether this checkbox is selected ]]>
+    </line>
+    <line>
+      <![CDATA[Now click the checkbox again and validate whether the checkbox is unselected]]>
+    </line>
+    <line>
+      <![CDATA[<+======Ending the Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Closing the browser session]]>
+    </line>
+    <line>
+      <![CDATA[<===== Start of Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Setting desired Capabilities]]>
+    </line>
+    <line>
+      <![CDATA[Connecting to hub/ Grid]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
+    </line>
+    <line>
+      <![CDATA[<--------Scenario 1: Page title validation Started-------->]]>
+    </line>
+    <line>
+      <![CDATA[Asserting wrong page Title]]>
+    </line>
+    <line>
+      <![CDATA[<+======Ending the Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Closing the browser session]]>
+    </line>
+    <line>
+      <![CDATA[<===== Start of Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Setting desired Capabilities]]>
+    </line>
+    <line>
+      <![CDATA[Connecting to hub/ Grid]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
+    </line>
+    <line>
+      <![CDATA[<--------Scenario 3: Handling Java Script Alert Box Started-------->]]>
+    </line>
+    <line>
+      <![CDATA[Click Javascript Alerts under Alerts and  Modals ]]>
+    </line>
+    <line>
+      <![CDATA[<+======Ending the Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Closing the browser session]]>
+    </line>
+    <line>
+      <![CDATA[<===== Start of Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Setting desired Capabilities]]>
+    </line>
+    <line>
+      <![CDATA[Connecting to hub/ Grid]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
+    </line>
+    <line>
+      <![CDATA[<--------Scenario 2: Check Box  validation Started-------->]]>
+    </line>
+    <line>
+      <![CDATA[Click Checkbox Demo under Input Forms]]>
+    </line>
+    <line>
+      <![CDATA[clicked on checkbox demo link]]>
+    </line>
+    <line>
+      <![CDATA[Click the checkbox under the Single Checkbox Demo section]]>
+    </line>
+    <line>
+      <![CDATA[clicked on single checkbox]]>
+    </line>
+    <line>
+      <![CDATA[Validate whether this checkbox is selected ]]>
+    </line>
+    <line>
+      <![CDATA[Now click the checkbox again and validate whether the checkbox is unselected]]>
+    </line>
+    <line>
+      <![CDATA[<+======Ending the Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Closing the browser session]]>
+    </line>
+    <line>
+      <![CDATA[<===== Start of Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Setting desired Capabilities]]>
+    </line>
+    <line>
+      <![CDATA[Connecting to hub/ Grid]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
+    </line>
+    <line>
+      <![CDATA[<--------Scenario 1: Page title validation Started-------->]]>
+    </line>
+    <line>
+      <![CDATA[Asserting wrong page Title]]>
+    </line>
+    <line>
+      <![CDATA[<+======Ending the Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Closing the browser session]]>
+    </line>
+    <line>
+      <![CDATA[<===== Start of Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Setting desired Capabilities]]>
+    </line>
+    <line>
+      <![CDATA[Connecting to hub/ Grid]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
+    </line>
+    <line>
+      <![CDATA[<--------Scenario 3: Handling Java Script Alert Box Started-------->]]>
+    </line>
+    <line>
+      <![CDATA[Click Javascript Alerts under Alerts and  Modals ]]>
+    </line>
+    <line>
+      <![CDATA[<+======Ending the Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Closing the browser session]]>
+    </line>
+    <line>
+      <![CDATA[<===== Start of Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Setting desired Capabilities]]>
+    </line>
+    <line>
+      <![CDATA[Connecting to hub/ Grid]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
+    </line>
+    <line>
+      <![CDATA[<--------Scenario 2: Check Box  validation Started-------->]]>
+    </line>
+    <line>
+      <![CDATA[Click Checkbox Demo under Input Forms]]>
+    </line>
+    <line>
+      <![CDATA[clicked on checkbox demo link]]>
+    </line>
+    <line>
+      <![CDATA[Click the checkbox under the Single Checkbox Demo section]]>
+    </line>
+    <line>
+      <![CDATA[clicked on single checkbox]]>
+    </line>
+    <line>
+      <![CDATA[Validate whether this checkbox is selected ]]>
+    </line>
+    <line>
+      <![CDATA[Now click the checkbox again and validate whether the checkbox is unselected]]>
+    </line>
+    <line>
+      <![CDATA[<+======Ending the Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Closing the browser session]]>
+    </line>
+    <line>
+      <![CDATA[<===== Start of Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Setting desired Capabilities]]>
+    </line>
+    <line>
+      <![CDATA[Connecting to hub/ Grid]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
+    </line>
+    <line>
+      <![CDATA[<--------Scenario 1: Page title validation Started-------->]]>
+    </line>
+    <line>
+      <![CDATA[Asserting wrong page Title]]>
+    </line>
+    <line>
+      <![CDATA[<+======Ending the Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Closing the browser session]]>
+    </line>
+    <line>
+      <![CDATA[<===== Start of Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Setting desired Capabilities]]>
+    </line>
+    <line>
+      <![CDATA[Connecting to hub/ Grid]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
+    </line>
+    <line>
+      <![CDATA[<--------Scenario 3: Handling Java Script Alert Box Started-------->]]>
+    </line>
+    <line>
+      <![CDATA[Click Javascript Alerts under Alerts and  Modals ]]>
+    </line>
+    <line>
+      <![CDATA[<+======Ending the Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Closing the browser session]]>
+    </line>
+    <line>
+      <![CDATA[<===== Start of Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[<===== Start of Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Setting desired Capabilities]]>
+    </line>
+    <line>
+      <![CDATA[Setting desired Capabilities]]>
+    </line>
+    <line>
       <![CDATA[Connecting to hub/ Grid]]>
     </line>
     <line>
       <![CDATA[Connecting to hub/ Grid]]>
+    </line>
+    <line>
+      <![CDATA[<===== Start of Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Setting desired Capabilities]]>
+    </line>
+    <line>
+      <![CDATA[Connecting to hub/ Grid]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
+    </line>
+    <line>
+      <![CDATA[<--------Scenario 2: Check Box  validation Started-------->]]>
+    </line>
+    <line>
+      <![CDATA[Click Checkbox Demo under Input Forms]]>
+    </line>
+    <line>
+      <![CDATA[<--------Scenario 2: Check Box  validation Started-------->]]>
+    </line>
+    <line>
+      <![CDATA[Click Checkbox Demo under Input Forms]]>
+    </line>
+    <line>
+      <![CDATA[clicked on checkbox demo link]]>
+    </line>
+    <line>
+      <![CDATA[Click the checkbox under the Single Checkbox Demo section]]>
+    </line>
+    <line>
+      <![CDATA[clicked on checkbox demo link]]>
+    </line>
+    <line>
+      <![CDATA[Click the checkbox under the Single Checkbox Demo section]]>
+    </line>
+    <line>
+      <![CDATA[clicked on single checkbox]]>
+    </line>
+    <line>
+      <![CDATA[Validate whether this checkbox is selected ]]>
+    </line>
+    <line>
+      <![CDATA[clicked on single checkbox]]>
+    </line>
+    <line>
+      <![CDATA[Validate whether this checkbox is selected ]]>
+    </line>
+    <line>
+      <![CDATA[Now click the checkbox again and validate whether the checkbox is unselected]]>
+    </line>
+    <line>
+      <![CDATA[Now click the checkbox again and validate whether the checkbox is unselected]]>
+    </line>
+    <line>
+      <![CDATA[<+======Ending the Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Closing the browser session]]>
+    </line>
+    <line>
+      <![CDATA[<+======Ending the Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Closing the browser session]]>
+    </line>
+    <line>
+      <![CDATA[<===== Start of Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Setting desired Capabilities]]>
+    </line>
+    <line>
+      <![CDATA[Connecting to hub/ Grid]]>
+    </line>
+    <line>
+      <![CDATA[<===== Start of Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Setting desired Capabilities]]>
+    </line>
+    <line>
+      <![CDATA[Connecting to hub/ Grid]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
     </line>
     <line>
       <![CDATA[<--------Scenario 1: Page title validation Started-------->]]>
@@ -80,58 +503,16 @@
       <![CDATA[Connecting to hub/ Grid]]>
     </line>
     <line>
-      <![CDATA[<--------Scenario 2: Check Box  validation Started-------->]]>
+      <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
     </line>
     <line>
-      <![CDATA[Click Checkbox Demo under Input Forms]]>
+      <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
     </line>
     <line>
-      <![CDATA[<--------Scenario 1: Page title validation Started-------->]]>
+      <![CDATA[<--------Scenario 3: Handling Java Script Alert Box Started-------->]]>
     </line>
     <line>
-      <![CDATA[Asserting wrong page Title]]>
-    </line>
-    <line>
-      <![CDATA[<+======Ending the Test Method =====>]]>
-    </line>
-    <line>
-      <![CDATA[Closing the browser session]]>
-    </line>
-    <line>
-      <![CDATA[<===== Start of Test Method =====>]]>
-    </line>
-    <line>
-      <![CDATA[Setting desired Capabilities]]>
-    </line>
-    <line>
-      <![CDATA[Connecting to hub/ Grid]]>
-    </line>
-    <line>
-      <![CDATA[<--------Scenario 2: Check Box  validation Started-------->]]>
-    </line>
-    <line>
-      <![CDATA[Click Checkbox Demo under Input Forms]]>
-    </line>
-    <line>
-      <![CDATA[<+======Ending the Test Method =====>]]>
-    </line>
-    <line>
-      <![CDATA[Closing the browser session]]>
-    </line>
-    <line>
-      <![CDATA[<===== Start of Test Method =====>]]>
-    </line>
-    <line>
-      <![CDATA[Setting desired Capabilities]]>
-    </line>
-    <line>
-      <![CDATA[Connecting to hub/ Grid]]>
-    </line>
-    <line>
-      <![CDATA[<--------Scenario 2: Check Box  validation Started-------->]]>
-    </line>
-    <line>
-      <![CDATA[Click Checkbox Demo under Input Forms]]>
+      <![CDATA[Click Javascript Alerts under Alerts and  Modals ]]>
     </line>
     <line>
       <![CDATA[<+======Ending the Test Method =====>]]>
@@ -164,61 +545,7 @@
       <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
     </line>
     <line>
-      <![CDATA[<===== Start of Test Method =====>]]>
-    </line>
-    <line>
-      <![CDATA[Setting desired Capabilities]]>
-    </line>
-    <line>
-      <![CDATA[Connecting to hub/ Grid]]>
-    </line>
-    <line>
-      <![CDATA[<+======Ending the Test Method =====>]]>
-    </line>
-    <line>
-      <![CDATA[Closing the browser session]]>
-    </line>
-    <line>
-      <![CDATA[<===== Start of Test Method =====>]]>
-    </line>
-    <line>
-      <![CDATA[Setting desired Capabilities]]>
-    </line>
-    <line>
-      <![CDATA[Connecting to hub/ Grid]]>
-    </line>
-    <line>
-      <![CDATA[<--------Scenario 1: Page title validation Started-------->]]>
-    </line>
-    <line>
-      <![CDATA[Asserting wrong page Title]]>
-    </line>
-    <line>
-      <![CDATA[<+======Ending the Test Method =====>]]>
-    </line>
-    <line>
-      <![CDATA[Closing the browser session]]>
-    </line>
-    <line>
-      <![CDATA[<===== Start of Test Method =====>]]>
-    </line>
-    <line>
-      <![CDATA[Setting desired Capabilities]]>
-    </line>
-    <line>
-      <![CDATA[Connecting to hub/ Grid]]>
-    </line>
-    <line>
-      <![CDATA[<--------Scenario 3: Handling Java Script Alert Box Started-------->]]>
-    </line>
-    <line>
-      <![CDATA[Click Javascript Alerts under Alerts and  Modals ]]>
-    </line>
-    <line>
-      <![CDATA[<+======Ending the Test Method =====>]]>
-    </line>
-    <line>
-      <![CDATA[Closing the browser session]]>
+      <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
     </line>
     <line>
       <![CDATA[<--------Scenario 2: Check Box  validation Started-------->]]>
@@ -227,16 +554,55 @@
       <![CDATA[Click Checkbox Demo under Input Forms]]>
     </line>
     <line>
-      <![CDATA[<--------Scenario 3: Handling Java Script Alert Box Started-------->]]>
+      <![CDATA[<--------Scenario 2: Check Box  validation Started-------->]]>
     </line>
     <line>
-      <![CDATA[Click Javascript Alerts under Alerts and  Modals ]]>
+      <![CDATA[Click Checkbox Demo under Input Forms]]>
+    </line>
+    <line>
+      <![CDATA[clicked on checkbox demo link]]>
+    </line>
+    <line>
+      <![CDATA[Click the checkbox under the Single Checkbox Demo section]]>
+    </line>
+    <line>
+      <![CDATA[clicked on single checkbox]]>
+    </line>
+    <line>
+      <![CDATA[Validate whether this checkbox is selected ]]>
+    </line>
+    <line>
+      <![CDATA[Now click the checkbox again and validate whether the checkbox is unselected]]>
+    </line>
+    <line>
+      <![CDATA[clicked on checkbox demo link]]>
+    </line>
+    <line>
+      <![CDATA[Click the checkbox under the Single Checkbox Demo section]]>
     </line>
     <line>
       <![CDATA[<+======Ending the Test Method =====>]]>
     </line>
     <line>
       <![CDATA[Closing the browser session]]>
+    </line>
+    <line>
+      <![CDATA[clicked on single checkbox]]>
+    </line>
+    <line>
+      <![CDATA[Validate whether this checkbox is selected ]]>
+    </line>
+    <line>
+      <![CDATA[<===== Start of Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Setting desired Capabilities]]>
+    </line>
+    <line>
+      <![CDATA[Connecting to hub/ Grid]]>
+    </line>
+    <line>
+      <![CDATA[Now click the checkbox again and validate whether the checkbox is unselected]]>
     </line>
     <line>
       <![CDATA[<+======Ending the Test Method =====>]]>
@@ -252,30 +618,24 @@
     </line>
     <line>
       <![CDATA[Connecting to hub/ Grid]]>
-    </line>
-    <line>
-      <![CDATA[<--------Scenario 3: Handling Java Script Alert Box Started-------->]]>
-    </line>
-    <line>
-      <![CDATA[Click Javascript Alerts under Alerts and  Modals ]]>
-    </line>
-    <line>
-      <![CDATA[<+======Ending the Test Method =====>]]>
-    </line>
-    <line>
-      <![CDATA[Closing the browser session]]>
     </line>
     <line>
       <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
     </line>
     <line>
-      <![CDATA[<===== Start of Test Method =====>]]>
+      <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
     </line>
     <line>
-      <![CDATA[Setting desired Capabilities]]>
+      <![CDATA[<--------Scenario 1: Page title validation Started-------->]]>
     </line>
     <line>
-      <![CDATA[Connecting to hub/ Grid]]>
+      <![CDATA[Asserting wrong page Title]]>
+    </line>
+    <line>
+      <![CDATA[<+======Ending the Test Method =====>]]>
+    </line>
+    <line>
+      <![CDATA[Closing the browser session]]>
     </line>
     <line>
       <![CDATA[<--------Scenario 1: Page title validation Started-------->]]>
@@ -299,18 +659,6 @@
       <![CDATA[Connecting to hub/ Grid]]>
     </line>
     <line>
-      <![CDATA[<--------Scenario 2: Check Box  validation Started-------->]]>
-    </line>
-    <line>
-      <![CDATA[Click Checkbox Demo under Input Forms]]>
-    </line>
-    <line>
-      <![CDATA[<+======Ending the Test Method =====>]]>
-    </line>
-    <line>
-      <![CDATA[Closing the browser session]]>
-    </line>
-    <line>
       <![CDATA[<===== Start of Test Method =====>]]>
     </line>
     <line>
@@ -318,6 +666,12 @@
     </line>
     <line>
       <![CDATA[Connecting to hub/ Grid]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
+    </line>
+    <line>
+      <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
     </line>
     <line>
       <![CDATA[<--------Scenario 3: Handling Java Script Alert Box Started-------->]]>
@@ -330,192 +684,6 @@
     </line>
     <line>
       <![CDATA[Closing the browser session]]>
-    </line>
-    <line>
-      <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
-    </line>
-    <line>
-      <![CDATA[<===== Start of Test Method =====>]]>
-    </line>
-    <line>
-      <![CDATA[Setting desired Capabilities]]>
-    </line>
-    <line>
-      <![CDATA[Connecting to hub/ Grid]]>
-    </line>
-    <line>
-      <![CDATA[<--------Scenario 1: Page title validation Started-------->]]>
-    </line>
-    <line>
-      <![CDATA[Asserting wrong page Title]]>
-    </line>
-    <line>
-      <![CDATA[<+======Ending the Test Method =====>]]>
-    </line>
-    <line>
-      <![CDATA[Closing the browser session]]>
-    </line>
-    <line>
-      <![CDATA[<===== Start of Test Method =====>]]>
-    </line>
-    <line>
-      <![CDATA[Setting desired Capabilities]]>
-    </line>
-    <line>
-      <![CDATA[Connecting to hub/ Grid]]>
-    </line>
-    <line>
-      <![CDATA[<--------Scenario 2: Check Box  validation Started-------->]]>
-    </line>
-    <line>
-      <![CDATA[Click Checkbox Demo under Input Forms]]>
-    </line>
-    <line>
-      <![CDATA[<+======Ending the Test Method =====>]]>
-    </line>
-    <line>
-      <![CDATA[Closing the browser session]]>
-    </line>
-    <line>
-      <![CDATA[<===== Start of Test Method =====>]]>
-    </line>
-    <line>
-      <![CDATA[Setting desired Capabilities]]>
-    </line>
-    <line>
-      <![CDATA[Connecting to hub/ Grid]]>
-    </line>
-    <line>
-      <![CDATA[<--------Scenario 3: Handling Java Script Alert Box Started-------->]]>
-    </line>
-    <line>
-      <![CDATA[Click Javascript Alerts under Alerts and  Modals ]]>
-    </line>
-    <line>
-      <![CDATA[<+======Ending the Test Method =====>]]>
-    </line>
-    <line>
-      <![CDATA[Closing the browser session]]>
-    </line>
-    <line>
-      <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
-    </line>
-    <line>
-      <![CDATA[<===== Start of Test Method =====>]]>
-    </line>
-    <line>
-      <![CDATA[Setting desired Capabilities]]>
-    </line>
-    <line>
-      <![CDATA[Connecting to hub/ Grid]]>
-    </line>
-    <line>
-      <![CDATA[<--------Scenario 1: Page title validation Started-------->]]>
-    </line>
-    <line>
-      <![CDATA[Asserting wrong page Title]]>
-    </line>
-    <line>
-      <![CDATA[<+======Ending the Test Method =====>]]>
-    </line>
-    <line>
-      <![CDATA[Closing the browser session]]>
-    </line>
-    <line>
-      <![CDATA[<===== Start of Test Method =====>]]>
-    </line>
-    <line>
-      <![CDATA[Setting desired Capabilities]]>
-    </line>
-    <line>
-      <![CDATA[Connecting to hub/ Grid]]>
-    </line>
-    <line>
-      <![CDATA[<--------Scenario 2: Check Box  validation Started-------->]]>
-    </line>
-    <line>
-      <![CDATA[Click Checkbox Demo under Input Forms]]>
-    </line>
-    <line>
-      <![CDATA[<+======Ending the Test Method =====>]]>
-    </line>
-    <line>
-      <![CDATA[Closing the browser session]]>
-    </line>
-    <line>
-      <![CDATA[<===== Start of Test Method =====>]]>
-    </line>
-    <line>
-      <![CDATA[Setting desired Capabilities]]>
-    </line>
-    <line>
-      <![CDATA[Connecting to hub/ Grid]]>
-    </line>
-    <line>
-      <![CDATA[<--------Scenario 3: Handling Java Script Alert Box Started-------->]]>
-    </line>
-    <line>
-      <![CDATA[Click Javascript Alerts under Alerts and  Modals ]]>
-    </line>
-    <line>
-      <![CDATA[<+======Ending the Test Method =====>]]>
-    </line>
-    <line>
-      <![CDATA[Closing the browser session]]>
-    </line>
-    <line>
-      <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
-    </line>
-    <line>
-      <![CDATA[<===== Start of Test Method =====>]]>
-    </line>
-    <line>
-      <![CDATA[Setting desired Capabilities]]>
-    </line>
-    <line>
-      <![CDATA[Connecting to hub/ Grid]]>
-    </line>
-    <line>
-      <![CDATA[<--------Scenario 1: Page title validation Started-------->]]>
-    </line>
-    <line>
-      <![CDATA[Asserting wrong page Title]]>
-    </line>
-    <line>
-      <![CDATA[<+======Ending the Test Method =====>]]>
-    </line>
-    <line>
-      <![CDATA[Closing the browser session]]>
-    </line>
-    <line>
-      <![CDATA[<===== Start of Test Method =====>]]>
-    </line>
-    <line>
-      <![CDATA[Setting desired Capabilities]]>
-    </line>
-    <line>
-      <![CDATA[Connecting to hub/ Grid]]>
-    </line>
-    <line>
-      <![CDATA[<--------Scenario 2: Check Box  validation Started-------->]]>
-    </line>
-    <line>
-      <![CDATA[Click Checkbox Demo under Input Forms]]>
-    </line>
-    <line>
-      <![CDATA[<+======Ending the Test Method =====>]]>
-    </line>
-    <line>
-      <![CDATA[Closing the browser session]]>
-    </line>
-    <line>
-      <![CDATA[<===== Start of Test Method =====>]]>
-    </line>
-    <line>
-      <![CDATA[Setting desired Capabilities]]>
-    </line>
-    <line>
-      <![CDATA[Connecting to hub/ Grid]]>
     </line>
     <line>
       <![CDATA[<--------Scenario 3: Handling Java Script Alert Box Started-------->]]>
@@ -530,425 +698,21 @@
       <![CDATA[Closing the browser session]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-10-05T02:40:53 IST" name="TestNG Parallel Test suite" finished-at="2022-10-05T02:44:00 IST" duration-ms="187019">
+  <suite started-at="2022-10-05T11:59:08 IST" name="TestNG Parallel Test suite" finished-at="2022-10-05T12:01:25 IST" duration-ms="137551">
     <groups>
     </groups>
-    <test started-at="2022-10-05T02:40:53 IST" name="Edge Browser Testing" finished-at="2022-10-05T02:42:40 IST" duration-ms="106741">
+    <test started-at="2022-10-05T11:59:08 IST" name="Firefox Browser Testing" finished-at="2022-10-05T12:00:09 IST" duration-ms="60808">
       <class name="testNG_TestCases.Testng_Test3">
-        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test3@7b227d8d]" started-at="2022-10-05T02:42:02 IST" name="setup" finished-at="2022-10-05T02:42:38 IST" duration-ms="35553" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test3@5ccddd20]" started-at="2022-10-05T11:59:50 IST" name="setup" finished-at="2022-10-05T12:00:04 IST" duration-ms="14245" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void testNG_TestCases.Testng_Test3.handlingJavaScriptAlertBox()]]>
+                <![CDATA[public void testNG_TestCases.Testng_Test3.handlingJavaScriptAlertBox(java.lang.String)]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[org.testng.TestRunner@502f1f4c]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Edge]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[87.0]]>
-              </value>
-            </param>
-            <param index="4">
-              <value>
-                <![CDATA[macOS Sierra]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[<===== Start of Test Method =====>]]>
-            </line>
-            <line>
-              <![CDATA[Setting desired Capabilities]]>
-            </line>
-            <line>
-              <![CDATA[Connecting to hub/ Grid]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="handlingJavaScriptAlertBox()[pri:0, instance:testNG_TestCases.Testng_Test3@7b227d8d]" started-at="2022-10-05T02:42:38 IST" name="handlingJavaScriptAlertBox" finished-at="2022-10-05T02:42:38 IST" duration-ms="5" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[<--------Scenario 3: Handling Java Script Alert Box Started-------->]]>
-            </line>
-            <line>
-              <![CDATA[Click Javascript Alerts under Alerts and  Modals ]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- handlingJavaScriptAlertBox -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test3@7b227d8d]" started-at="2022-10-05T02:42:38 IST" name="tearDown" finished-at="2022-10-05T02:42:40 IST" duration-ms="2290" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[<+======Ending the Test Method =====>]]>
-            </line>
-            <line>
-              <![CDATA[Closing the browser session]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- testNG_TestCases.Testng_Test3 -->
-      <class name="testNG_TestCases.Testng_Test1">
-        <test-method is-config="true" signature="setUrl(java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test1@12d4bf7e]" started-at="2022-10-05T02:40:53 IST" name="setUrl" finished-at="2022-10-05T02:40:53 IST" duration-ms="133" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[https://www.lambdatest.com/selenium-playground/]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- setUrl -->
-        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test1@12d4bf7e]" started-at="2022-10-05T02:40:54 IST" name="setup" finished-at="2022-10-05T02:41:08 IST" duration-ms="14546" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testNG_TestCases.Testng_Test1.pageTitleValidation()]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[org.testng.TestRunner@502f1f4c]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Edge]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[87.0]]>
-              </value>
-            </param>
-            <param index="4">
-              <value>
-                <![CDATA[macOS Sierra]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[<===== Start of Test Method =====>]]>
-            </line>
-            <line>
-              <![CDATA[Setting desired Capabilities]]>
-            </line>
-            <line>
-              <![CDATA[Connecting to hub/ Grid]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="pageTitleValidation()[pri:0, instance:testNG_TestCases.Testng_Test1@12d4bf7e]" started-at="2022-10-05T02:41:08 IST" name="pageTitleValidation" finished-at="2022-10-05T02:41:09 IST" duration-ms="600" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[<--------Scenario 1: Page title validation Started-------->]]>
-            </line>
-            <line>
-              <![CDATA[Asserting wrong page Title]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- pageTitleValidation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test1@12d4bf7e]" started-at="2022-10-05T02:41:09 IST" name="tearDown" finished-at="2022-10-05T02:41:11 IST" duration-ms="2288" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[<+======Ending the Test Method =====>]]>
-            </line>
-            <line>
-              <![CDATA[Closing the browser session]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- testNG_TestCases.Testng_Test1 -->
-      <class name="testNG_TestCases.Testng_Test2">
-        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test2@4c1d9d4b]" started-at="2022-10-05T02:41:11 IST" name="setup" finished-at="2022-10-05T02:41:27 IST" duration-ms="16475" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testNG_TestCases.Testng_Test2.checkBoxValidation() throws java.lang.InterruptedException]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[org.testng.TestRunner@502f1f4c]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Edge]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[87.0]]>
-              </value>
-            </param>
-            <param index="4">
-              <value>
-                <![CDATA[macOS Sierra]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[<===== Start of Test Method =====>]]>
-            </line>
-            <line>
-              <![CDATA[Setting desired Capabilities]]>
-            </line>
-            <line>
-              <![CDATA[Connecting to hub/ Grid]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="checkBoxValidation()[pri:0, instance:testNG_TestCases.Testng_Test2@4c1d9d4b]" started-at="2022-10-05T02:41:27 IST" name="checkBoxValidation" finished-at="2022-10-05T02:42:00 IST" duration-ms="32396" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[<--------Scenario 2: Check Box  validation Started-------->]]>
-            </line>
-            <line>
-              <![CDATA[Click Checkbox Demo under Input Forms]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- checkBoxValidation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test2@4c1d9d4b]" started-at="2022-10-05T02:42:00 IST" name="tearDown" finished-at="2022-10-05T02:42:02 IST" duration-ms="2334" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[<+======Ending the Test Method =====>]]>
-            </line>
-            <line>
-              <![CDATA[Closing the browser session]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- testNG_TestCases.Testng_Test2 -->
-    </test> <!-- Edge Browser Testing -->
-    <test started-at="2022-10-05T02:40:53 IST" name="Chrom Browser  testing" finished-at="2022-10-05T02:43:09 IST" duration-ms="135971">
-      <class name="testNG_TestCases.Testng_Test3">
-        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test3@6e75aa0d]" started-at="2022-10-05T02:42:21 IST" name="setup" finished-at="2022-10-05T02:43:07 IST" duration-ms="45618" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testNG_TestCases.Testng_Test3.handlingJavaScriptAlertBox()]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[org.testng.TestRunner@6f8f9349]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Chrome]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[88.0]]>
-              </value>
-            </param>
-            <param index="4">
-              <value>
-                <![CDATA[Windows 10]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[<===== Start of Test Method =====>]]>
-            </line>
-            <line>
-              <![CDATA[Setting desired Capabilities]]>
-            </line>
-            <line>
-              <![CDATA[Connecting to hub/ Grid]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="handlingJavaScriptAlertBox()[pri:0, instance:testNG_TestCases.Testng_Test3@6e75aa0d]" started-at="2022-10-05T02:43:07 IST" name="handlingJavaScriptAlertBox" finished-at="2022-10-05T02:43:07 IST" duration-ms="34" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[<--------Scenario 3: Handling Java Script Alert Box Started-------->]]>
-            </line>
-            <line>
-              <![CDATA[Click Javascript Alerts under Alerts and  Modals ]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- handlingJavaScriptAlertBox -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test3@6e75aa0d]" started-at="2022-10-05T02:43:07 IST" name="tearDown" finished-at="2022-10-05T02:43:09 IST" duration-ms="2330" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[<+======Ending the Test Method =====>]]>
-            </line>
-            <line>
-              <![CDATA[Closing the browser session]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- testNG_TestCases.Testng_Test3 -->
-      <class name="testNG_TestCases.Testng_Test1">
-        <test-method is-config="true" signature="setUrl(java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test1@11dc3715]" started-at="2022-10-05T02:40:53 IST" name="setUrl" finished-at="2022-10-05T02:40:53 IST" duration-ms="123" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[https://www.lambdatest.com/selenium-playground/]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- setUrl -->
-        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test1@11dc3715]" started-at="2022-10-05T02:40:54 IST" name="setup" finished-at="2022-10-05T02:41:29 IST" duration-ms="35037" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testNG_TestCases.Testng_Test1.pageTitleValidation()]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[org.testng.TestRunner@6f8f9349]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Chrome]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[88.0]]>
-              </value>
-            </param>
-            <param index="4">
-              <value>
-                <![CDATA[Windows 10]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[<===== Start of Test Method =====>]]>
-            </line>
-            <line>
-              <![CDATA[Setting desired Capabilities]]>
-            </line>
-            <line>
-              <![CDATA[Connecting to hub/ Grid]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="pageTitleValidation()[pri:0, instance:testNG_TestCases.Testng_Test1@11dc3715]" started-at="2022-10-05T02:41:29 IST" name="pageTitleValidation" finished-at="2022-10-05T02:41:29 IST" duration-ms="622" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[<--------Scenario 1: Page title validation Started-------->]]>
-            </line>
-            <line>
-              <![CDATA[Asserting wrong page Title]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- pageTitleValidation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test1@11dc3715]" started-at="2022-10-05T02:41:29 IST" name="tearDown" finished-at="2022-10-05T02:41:31 IST" duration-ms="1895" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[<+======Ending the Test Method =====>]]>
-            </line>
-            <line>
-              <![CDATA[Closing the browser session]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- testNG_TestCases.Testng_Test1 -->
-      <class name="testNG_TestCases.Testng_Test2">
-        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test2@4387b79e]" started-at="2022-10-05T02:41:31 IST" name="setup" finished-at="2022-10-05T02:41:47 IST" duration-ms="16039" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testNG_TestCases.Testng_Test2.checkBoxValidation() throws java.lang.InterruptedException]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[org.testng.TestRunner@6f8f9349]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Chrome]]>
-              </value>
-            </param>
-            <param index="3">
-              <value>
-                <![CDATA[88.0]]>
-              </value>
-            </param>
-            <param index="4">
-              <value>
-                <![CDATA[Windows 10]]>
-              </value>
-            </param>
-          </params>
-          <reporter-output>
-            <line>
-              <![CDATA[<===== Start of Test Method =====>]]>
-            </line>
-            <line>
-              <![CDATA[Setting desired Capabilities]]>
-            </line>
-            <line>
-              <![CDATA[Connecting to hub/ Grid]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="checkBoxValidation()[pri:0, instance:testNG_TestCases.Testng_Test2@4387b79e]" started-at="2022-10-05T02:41:47 IST" name="checkBoxValidation" finished-at="2022-10-05T02:42:19 IST" duration-ms="32182" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[<--------Scenario 2: Check Box  validation Started-------->]]>
-            </line>
-            <line>
-              <![CDATA[Click Checkbox Demo under Input Forms]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- checkBoxValidation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test2@4387b79e]" started-at="2022-10-05T02:42:19 IST" name="tearDown" finished-at="2022-10-05T02:42:21 IST" duration-ms="1949" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[<+======Ending the Test Method =====>]]>
-            </line>
-            <line>
-              <![CDATA[Closing the browser session]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- testNG_TestCases.Testng_Test2 -->
-    </test> <!-- Chrom Browser  testing -->
-    <test started-at="2022-10-05T02:40:53 IST" name="Firefox Browser Testing" finished-at="2022-10-05T02:43:19 IST" duration-ms="146170">
-      <class name="testNG_TestCases.Testng_Test3">
-        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test3@33afa13b]" started-at="2022-10-05T02:42:51 IST" name="setup" finished-at="2022-10-05T02:43:17 IST" duration-ms="26085" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[public void testNG_TestCases.Testng_Test3.handlingJavaScriptAlertBox()]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[org.testng.TestRunner@75c9e76b]]>
+                <![CDATA[org.testng.TestRunner@37baddde]]>
               </value>
             </param>
             <param index="2">
@@ -979,29 +743,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="handlingJavaScriptAlertBox()[pri:0, instance:testNG_TestCases.Testng_Test3@33afa13b]" started-at="2022-10-05T02:43:17 IST" name="handlingJavaScriptAlertBox" finished-at="2022-10-05T02:43:17 IST" duration-ms="6" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[<--------Scenario 3: Handling Java Script Alert Box Started-------->]]>
-            </line>
-            <line>
-              <![CDATA[Click Javascript Alerts under Alerts and  Modals ]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- handlingJavaScriptAlertBox -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test3@33afa13b]" started-at="2022-10-05T02:43:17 IST" name="tearDown" finished-at="2022-10-05T02:43:19 IST" duration-ms="2354" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[<+======Ending the Test Method =====>]]>
-            </line>
-            <line>
-              <![CDATA[Closing the browser session]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- testNG_TestCases.Testng_Test3 -->
-      <class name="testNG_TestCases.Testng_Test1">
-        <test-method is-config="true" signature="setUrl(java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test1@d706f19]" started-at="2022-10-05T02:40:53 IST" name="setUrl" finished-at="2022-10-05T02:40:53 IST" duration-ms="117" status="PASS">
+        <test-method signature="handlingJavaScriptAlertBox(java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test3@5ccddd20]" started-at="2022-10-05T12:00:04 IST" name="handlingJavaScriptAlertBox" finished-at="2022-10-05T12:00:06 IST" duration-ms="2233" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -1013,18 +755,36 @@
             <line>
               <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
             </line>
+            <line>
+              <![CDATA[<--------Scenario 3: Handling Java Script Alert Box Started-------->]]>
+            </line>
+            <line>
+              <![CDATA[Click Javascript Alerts under Alerts and  Modals ]]>
+            </line>
           </reporter-output>
-        </test-method> <!-- setUrl -->
-        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test1@d706f19]" started-at="2022-10-05T02:40:54 IST" name="setup" finished-at="2022-10-05T02:41:08 IST" duration-ms="14535" status="PASS">
+        </test-method> <!-- handlingJavaScriptAlertBox -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test3@5ccddd20]" started-at="2022-10-05T12:00:06 IST" name="tearDown" finished-at="2022-10-05T12:00:09 IST" duration-ms="2212" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<+======Ending the Test Method =====>]]>
+            </line>
+            <line>
+              <![CDATA[Closing the browser session]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testNG_TestCases.Testng_Test3 -->
+      <class name="testNG_TestCases.Testng_Test1">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test1@6e0dec4a]" started-at="2022-10-05T11:59:08 IST" name="setup" finished-at="2022-10-05T11:59:15 IST" duration-ms="7452" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void testNG_TestCases.Testng_Test1.pageTitleValidation()]]>
+                <![CDATA[public void testNG_TestCases.Testng_Test1.checkBoxValidation(java.lang.String) throws java.lang.InterruptedException]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[org.testng.TestRunner@75c9e76b]]>
+                <![CDATA[org.testng.TestRunner@37baddde]]>
               </value>
             </param>
             <param index="2">
@@ -1055,17 +815,42 @@
             </line>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="pageTitleValidation()[pri:0, instance:testNG_TestCases.Testng_Test1@d706f19]" started-at="2022-10-05T02:41:08 IST" name="pageTitleValidation" finished-at="2022-10-05T02:41:09 IST" duration-ms="431" status="PASS">
+        <test-method signature="checkBoxValidation(java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test1@6e0dec4a]" started-at="2022-10-05T11:59:15 IST" name="checkBoxValidation" finished-at="2022-10-05T11:59:27 IST" duration-ms="11696" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.lambdatest.com/selenium-playground/]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
             <line>
-              <![CDATA[<--------Scenario 1: Page title validation Started-------->]]>
+              <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
             </line>
             <line>
-              <![CDATA[Asserting wrong page Title]]>
+              <![CDATA[<--------Scenario 2: Check Box  validation Started-------->]]>
+            </line>
+            <line>
+              <![CDATA[Click Checkbox Demo under Input Forms]]>
+            </line>
+            <line>
+              <![CDATA[clicked on checkbox demo link]]>
+            </line>
+            <line>
+              <![CDATA[Click the checkbox under the Single Checkbox Demo section]]>
+            </line>
+            <line>
+              <![CDATA[clicked on single checkbox]]>
+            </line>
+            <line>
+              <![CDATA[Validate whether this checkbox is selected ]]>
+            </line>
+            <line>
+              <![CDATA[Now click the checkbox again and validate whether the checkbox is unselected]]>
             </line>
           </reporter-output>
-        </test-method> <!-- pageTitleValidation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test1@d706f19]" started-at="2022-10-05T02:41:09 IST" name="tearDown" finished-at="2022-10-05T02:41:11 IST" duration-ms="2451" status="PASS">
+        </test-method> <!-- checkBoxValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test1@6e0dec4a]" started-at="2022-10-05T11:59:27 IST" name="tearDown" finished-at="2022-10-05T11:59:29 IST" duration-ms="2242" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[<+======Ending the Test Method =====>]]>
@@ -1077,16 +862,16 @@
         </test-method> <!-- tearDown -->
       </class> <!-- testNG_TestCases.Testng_Test1 -->
       <class name="testNG_TestCases.Testng_Test2">
-        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test2@47542153]" started-at="2022-10-05T02:41:11 IST" name="setup" finished-at="2022-10-05T02:42:17 IST" duration-ms="66246" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test2@96def03]" started-at="2022-10-05T11:59:29 IST" name="setup" finished-at="2022-10-05T11:59:45 IST" duration-ms="15917" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void testNG_TestCases.Testng_Test2.checkBoxValidation() throws java.lang.InterruptedException]]>
+                <![CDATA[public void testNG_TestCases.Testng_Test2.pageTitleValidation(java.lang.String)]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[org.testng.TestRunner@75c9e76b]]>
+                <![CDATA[org.testng.TestRunner@37baddde]]>
               </value>
             </param>
             <param index="2">
@@ -1117,17 +902,27 @@
             </line>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="checkBoxValidation()[pri:0, instance:testNG_TestCases.Testng_Test2@47542153]" started-at="2022-10-05T02:42:17 IST" name="checkBoxValidation" finished-at="2022-10-05T02:42:49 IST" duration-ms="31568" status="PASS">
+        <test-method signature="pageTitleValidation(java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test2@96def03]" started-at="2022-10-05T11:59:45 IST" name="pageTitleValidation" finished-at="2022-10-05T11:59:48 IST" duration-ms="2608" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.lambdatest.com/selenium-playground/]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
             <line>
-              <![CDATA[<--------Scenario 2: Check Box  validation Started-------->]]>
+              <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
             </line>
             <line>
-              <![CDATA[Click Checkbox Demo under Input Forms]]>
+              <![CDATA[<--------Scenario 1: Page title validation Started-------->]]>
+            </line>
+            <line>
+              <![CDATA[Asserting wrong page Title]]>
             </line>
           </reporter-output>
-        </test-method> <!-- checkBoxValidation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test2@47542153]" started-at="2022-10-05T02:42:49 IST" name="tearDown" finished-at="2022-10-05T02:42:51 IST" duration-ms="2226" status="PASS">
+        </test-method> <!-- pageTitleValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test2@96def03]" started-at="2022-10-05T11:59:48 IST" name="tearDown" finished-at="2022-10-05T11:59:50 IST" duration-ms="2196" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[<+======Ending the Test Method =====>]]>
@@ -1139,33 +934,33 @@
         </test-method> <!-- tearDown -->
       </class> <!-- testNG_TestCases.Testng_Test2 -->
     </test> <!-- Firefox Browser Testing -->
-    <test started-at="2022-10-05T02:42:40 IST" name="Internet Explorer Testing" finished-at="2022-10-05T02:44:00 IST" duration-ms="80079">
+    <test started-at="2022-10-05T11:59:08 IST" name="Edge Browser Testing" finished-at="2022-10-05T12:00:11 IST" duration-ms="63199">
       <class name="testNG_TestCases.Testng_Test3">
-        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test3@45b9a632]" started-at="2022-10-05T02:43:51 IST" name="setup" finished-at="2022-10-05T02:43:58 IST" duration-ms="7351" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test3@670002]" started-at="2022-10-05T11:59:50 IST" name="setup" finished-at="2022-10-05T12:00:05 IST" duration-ms="15767" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void testNG_TestCases.Testng_Test3.handlingJavaScriptAlertBox()]]>
+                <![CDATA[public void testNG_TestCases.Testng_Test3.handlingJavaScriptAlertBox(java.lang.String)]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[org.testng.TestRunner@5c3b6c6e]]>
+                <![CDATA[org.testng.TestRunner@68565bc7]]>
               </value>
             </param>
             <param index="2">
               <value>
-                <![CDATA[Internet Explorer]]>
+                <![CDATA[Edge]]>
               </value>
             </param>
             <param index="3">
               <value>
-                <![CDATA[11.0]]>
+                <![CDATA[87.0]]>
               </value>
             </param>
             <param index="4">
               <value>
-                <![CDATA[Windows 10]]>
+                <![CDATA[macOS Sierra]]>
               </value>
             </param>
           </params>
@@ -1181,29 +976,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="handlingJavaScriptAlertBox()[pri:0, instance:testNG_TestCases.Testng_Test3@45b9a632]" started-at="2022-10-05T02:43:58 IST" name="handlingJavaScriptAlertBox" finished-at="2022-10-05T02:43:58 IST" duration-ms="24" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[<--------Scenario 3: Handling Java Script Alert Box Started-------->]]>
-            </line>
-            <line>
-              <![CDATA[Click Javascript Alerts under Alerts and  Modals ]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- handlingJavaScriptAlertBox -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test3@45b9a632]" started-at="2022-10-05T02:43:58 IST" name="tearDown" finished-at="2022-10-05T02:44:00 IST" duration-ms="2071" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[<+======Ending the Test Method =====>]]>
-            </line>
-            <line>
-              <![CDATA[Closing the browser session]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- testNG_TestCases.Testng_Test3 -->
-      <class name="testNG_TestCases.Testng_Test1">
-        <test-method is-config="true" signature="setUrl(java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test1@18ce0030]" started-at="2022-10-05T02:42:40 IST" name="setUrl" finished-at="2022-10-05T02:42:40 IST" duration-ms="5" status="PASS">
+        <test-method signature="handlingJavaScriptAlertBox(java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test3@670002]" started-at="2022-10-05T12:00:05 IST" name="handlingJavaScriptAlertBox" finished-at="2022-10-05T12:00:09 IST" duration-ms="3224" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -1215,33 +988,51 @@
             <line>
               <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
             </line>
+            <line>
+              <![CDATA[<--------Scenario 3: Handling Java Script Alert Box Started-------->]]>
+            </line>
+            <line>
+              <![CDATA[Click Javascript Alerts under Alerts and  Modals ]]>
+            </line>
           </reporter-output>
-        </test-method> <!-- setUrl -->
-        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test1@18ce0030]" started-at="2022-10-05T02:42:40 IST" name="setup" finished-at="2022-10-05T02:42:59 IST" duration-ms="18634" status="PASS">
+        </test-method> <!-- handlingJavaScriptAlertBox -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test3@670002]" started-at="2022-10-05T12:00:09 IST" name="tearDown" finished-at="2022-10-05T12:00:11 IST" duration-ms="2243" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<+======Ending the Test Method =====>]]>
+            </line>
+            <line>
+              <![CDATA[Closing the browser session]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testNG_TestCases.Testng_Test3 -->
+      <class name="testNG_TestCases.Testng_Test1">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test1@2b6faea6]" started-at="2022-10-05T11:59:08 IST" name="setup" finished-at="2022-10-05T11:59:15 IST" duration-ms="6995" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void testNG_TestCases.Testng_Test1.pageTitleValidation()]]>
+                <![CDATA[public void testNG_TestCases.Testng_Test1.checkBoxValidation(java.lang.String) throws java.lang.InterruptedException]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[org.testng.TestRunner@5c3b6c6e]]>
+                <![CDATA[org.testng.TestRunner@68565bc7]]>
               </value>
             </param>
             <param index="2">
               <value>
-                <![CDATA[Internet Explorer]]>
+                <![CDATA[Edge]]>
               </value>
             </param>
             <param index="3">
               <value>
-                <![CDATA[11.0]]>
+                <![CDATA[87.0]]>
               </value>
             </param>
             <param index="4">
               <value>
-                <![CDATA[Windows 10]]>
+                <![CDATA[macOS Sierra]]>
               </value>
             </param>
           </params>
@@ -1257,17 +1048,42 @@
             </line>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="pageTitleValidation()[pri:0, instance:testNG_TestCases.Testng_Test1@18ce0030]" started-at="2022-10-05T02:42:59 IST" name="pageTitleValidation" finished-at="2022-10-05T02:42:59 IST" duration-ms="576" status="PASS">
+        <test-method signature="checkBoxValidation(java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test1@2b6faea6]" started-at="2022-10-05T11:59:15 IST" name="checkBoxValidation" finished-at="2022-10-05T11:59:27 IST" duration-ms="11798" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.lambdatest.com/selenium-playground/]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
             <line>
-              <![CDATA[<--------Scenario 1: Page title validation Started-------->]]>
+              <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
             </line>
             <line>
-              <![CDATA[Asserting wrong page Title]]>
+              <![CDATA[<--------Scenario 2: Check Box  validation Started-------->]]>
+            </line>
+            <line>
+              <![CDATA[Click Checkbox Demo under Input Forms]]>
+            </line>
+            <line>
+              <![CDATA[clicked on checkbox demo link]]>
+            </line>
+            <line>
+              <![CDATA[Click the checkbox under the Single Checkbox Demo section]]>
+            </line>
+            <line>
+              <![CDATA[clicked on single checkbox]]>
+            </line>
+            <line>
+              <![CDATA[Validate whether this checkbox is selected ]]>
+            </line>
+            <line>
+              <![CDATA[Now click the checkbox again and validate whether the checkbox is unselected]]>
             </line>
           </reporter-output>
-        </test-method> <!-- pageTitleValidation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test1@18ce0030]" started-at="2022-10-05T02:42:59 IST" name="tearDown" finished-at="2022-10-05T02:43:02 IST" duration-ms="2060" status="PASS">
+        </test-method> <!-- checkBoxValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test1@2b6faea6]" started-at="2022-10-05T11:59:27 IST" name="tearDown" finished-at="2022-10-05T11:59:29 IST" duration-ms="2036" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[<+======Ending the Test Method =====>]]>
@@ -1279,16 +1095,90 @@
         </test-method> <!-- tearDown -->
       </class> <!-- testNG_TestCases.Testng_Test1 -->
       <class name="testNG_TestCases.Testng_Test2">
-        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test2@4445629]" started-at="2022-10-05T02:43:02 IST" name="setup" finished-at="2022-10-05T02:43:16 IST" duration-ms="14469" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test2@778d1062]" started-at="2022-10-05T11:59:29 IST" name="setup" finished-at="2022-10-05T11:59:44 IST" duration-ms="15770" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void testNG_TestCases.Testng_Test2.checkBoxValidation() throws java.lang.InterruptedException]]>
+                <![CDATA[public void testNG_TestCases.Testng_Test2.pageTitleValidation(java.lang.String)]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[org.testng.TestRunner@5c3b6c6e]]>
+                <![CDATA[org.testng.TestRunner@68565bc7]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[87.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[macOS Sierra]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<===== Start of Test Method =====>]]>
+            </line>
+            <line>
+              <![CDATA[Setting desired Capabilities]]>
+            </line>
+            <line>
+              <![CDATA[Connecting to hub/ Grid]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="pageTitleValidation(java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test2@778d1062]" started-at="2022-10-05T11:59:44 IST" name="pageTitleValidation" finished-at="2022-10-05T11:59:48 IST" duration-ms="3351" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.lambdatest.com/selenium-playground/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
+            </line>
+            <line>
+              <![CDATA[<--------Scenario 1: Page title validation Started-------->]]>
+            </line>
+            <line>
+              <![CDATA[Asserting wrong page Title]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- pageTitleValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test2@778d1062]" started-at="2022-10-05T11:59:48 IST" name="tearDown" finished-at="2022-10-05T11:59:50 IST" duration-ms="2008" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<+======Ending the Test Method =====>]]>
+            </line>
+            <line>
+              <![CDATA[Closing the browser session]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testNG_TestCases.Testng_Test2 -->
+    </test> <!-- Edge Browser Testing -->
+    <test started-at="2022-10-05T12:00:09 IST" name="Internet Explorer Testing" finished-at="2022-10-05T12:01:23 IST" duration-ms="74866">
+      <class name="testNG_TestCases.Testng_Test3">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test3@3cc2931c]" started-at="2022-10-05T12:01:02 IST" name="setup" finished-at="2022-10-05T12:01:18 IST" duration-ms="15955" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testNG_TestCases.Testng_Test3.handlingJavaScriptAlertBox(java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@5115f590]]>
               </value>
             </param>
             <param index="2">
@@ -1319,17 +1209,186 @@
             </line>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="checkBoxValidation()[pri:0, instance:testNG_TestCases.Testng_Test2@4445629]" started-at="2022-10-05T02:43:16 IST" name="checkBoxValidation" finished-at="2022-10-05T02:43:49 IST" duration-ms="33082" status="PASS">
+        <test-method signature="handlingJavaScriptAlertBox(java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test3@3cc2931c]" started-at="2022-10-05T12:01:18 IST" name="handlingJavaScriptAlertBox" finished-at="2022-10-05T12:01:21 IST" duration-ms="3373" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.lambdatest.com/selenium-playground/]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
+            <line>
+              <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
+            </line>
+            <line>
+              <![CDATA[<--------Scenario 3: Handling Java Script Alert Box Started-------->]]>
+            </line>
+            <line>
+              <![CDATA[Click Javascript Alerts under Alerts and  Modals ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- handlingJavaScriptAlertBox -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test3@3cc2931c]" started-at="2022-10-05T12:01:21 IST" name="tearDown" finished-at="2022-10-05T12:01:23 IST" duration-ms="1938" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<+======Ending the Test Method =====>]]>
+            </line>
+            <line>
+              <![CDATA[Closing the browser session]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testNG_TestCases.Testng_Test3 -->
+      <class name="testNG_TestCases.Testng_Test1">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test1@4b5a5ed1]" started-at="2022-10-05T12:00:09 IST" name="setup" finished-at="2022-10-05T12:00:25 IST" duration-ms="16854" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testNG_TestCases.Testng_Test1.checkBoxValidation(java.lang.String) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@5115f590]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Internet Explorer]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[11.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Windows 10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<===== Start of Test Method =====>]]>
+            </line>
+            <line>
+              <![CDATA[Setting desired Capabilities]]>
+            </line>
+            <line>
+              <![CDATA[Connecting to hub/ Grid]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="checkBoxValidation(java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test1@4b5a5ed1]" started-at="2022-10-05T12:00:25 IST" name="checkBoxValidation" finished-at="2022-10-05T12:00:41 IST" duration-ms="15507" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.lambdatest.com/selenium-playground/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
+            </line>
             <line>
               <![CDATA[<--------Scenario 2: Check Box  validation Started-------->]]>
             </line>
             <line>
               <![CDATA[Click Checkbox Demo under Input Forms]]>
             </line>
+            <line>
+              <![CDATA[clicked on checkbox demo link]]>
+            </line>
+            <line>
+              <![CDATA[Click the checkbox under the Single Checkbox Demo section]]>
+            </line>
+            <line>
+              <![CDATA[clicked on single checkbox]]>
+            </line>
+            <line>
+              <![CDATA[Validate whether this checkbox is selected ]]>
+            </line>
+            <line>
+              <![CDATA[Now click the checkbox again and validate whether the checkbox is unselected]]>
+            </line>
           </reporter-output>
         </test-method> <!-- checkBoxValidation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test2@4445629]" started-at="2022-10-05T02:43:49 IST" name="tearDown" finished-at="2022-10-05T02:43:51 IST" duration-ms="1802" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test1@4b5a5ed1]" started-at="2022-10-05T12:00:41 IST" name="tearDown" finished-at="2022-10-05T12:00:43 IST" duration-ms="1801" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<+======Ending the Test Method =====>]]>
+            </line>
+            <line>
+              <![CDATA[Closing the browser session]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testNG_TestCases.Testng_Test1 -->
+      <class name="testNG_TestCases.Testng_Test2">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test2@59d016c9]" started-at="2022-10-05T12:00:43 IST" name="setup" finished-at="2022-10-05T12:00:56 IST" duration-ms="12814" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testNG_TestCases.Testng_Test2.pageTitleValidation(java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@5115f590]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Internet Explorer]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[11.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Windows 10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<===== Start of Test Method =====>]]>
+            </line>
+            <line>
+              <![CDATA[Setting desired Capabilities]]>
+            </line>
+            <line>
+              <![CDATA[Connecting to hub/ Grid]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="pageTitleValidation(java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test2@59d016c9]" started-at="2022-10-05T12:00:56 IST" name="pageTitleValidation" finished-at="2022-10-05T12:01:00 IST" duration-ms="4793" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.lambdatest.com/selenium-playground/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
+            </line>
+            <line>
+              <![CDATA[<--------Scenario 1: Page title validation Started-------->]]>
+            </line>
+            <line>
+              <![CDATA[Asserting wrong page Title]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- pageTitleValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test2@59d016c9]" started-at="2022-10-05T12:01:00 IST" name="tearDown" finished-at="2022-10-05T12:01:02 IST" duration-ms="1826" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[<+======Ending the Test Method =====>]]>
@@ -1341,22 +1400,18 @@
         </test-method> <!-- tearDown -->
       </class> <!-- testNG_TestCases.Testng_Test2 -->
     </test> <!-- Internet Explorer Testing -->
-  </suite> <!-- TestNG Parallel Test suite -->
-  <suite started-at="2022-10-05T02:44:00 IST" name="Cross Browser Single Test" finished-at="2022-10-05T02:48:17 IST" duration-ms="256327">
-    <groups>
-    </groups>
-    <test started-at="2022-10-05T02:44:00 IST" name="Chrome Browser Testing" finished-at="2022-10-05T02:45:16 IST" duration-ms="75441">
+    <test started-at="2022-10-05T11:59:08 IST" name="Chrom Browser  testing" finished-at="2022-10-05T12:01:25 IST" duration-ms="137551">
       <class name="testNG_TestCases.Testng_Test3">
-        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test3@3c9d0b9d]" started-at="2022-10-05T02:45:07 IST" name="setup" finished-at="2022-10-05T02:45:14 IST" duration-ms="6893" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test3@161479c6]" started-at="2022-10-05T12:01:01 IST" name="setup" finished-at="2022-10-05T12:01:18 IST" duration-ms="17235" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void testNG_TestCases.Testng_Test3.handlingJavaScriptAlertBox()]]>
+                <![CDATA[public void testNG_TestCases.Testng_Test3.handlingJavaScriptAlertBox(java.lang.String)]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[org.testng.TestRunner@4fbda97b]]>
+                <![CDATA[org.testng.TestRunner@5a8816cc]]>
               </value>
             </param>
             <param index="2">
@@ -1387,29 +1442,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="handlingJavaScriptAlertBox()[pri:0, instance:testNG_TestCases.Testng_Test3@3c9d0b9d]" started-at="2022-10-05T02:45:14 IST" name="handlingJavaScriptAlertBox" finished-at="2022-10-05T02:45:14 IST" duration-ms="28" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[<--------Scenario 3: Handling Java Script Alert Box Started-------->]]>
-            </line>
-            <line>
-              <![CDATA[Click Javascript Alerts under Alerts and  Modals ]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- handlingJavaScriptAlertBox -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test3@3c9d0b9d]" started-at="2022-10-05T02:45:14 IST" name="tearDown" finished-at="2022-10-05T02:45:16 IST" duration-ms="1945" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[<+======Ending the Test Method =====>]]>
-            </line>
-            <line>
-              <![CDATA[Closing the browser session]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- testNG_TestCases.Testng_Test3 -->
-      <class name="testNG_TestCases.Testng_Test1">
-        <test-method is-config="true" signature="setUrl(java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test1@318ba8c8]" started-at="2022-10-05T02:44:00 IST" name="setUrl" finished-at="2022-10-05T02:44:00 IST" duration-ms="4" status="PASS">
+        <test-method signature="handlingJavaScriptAlertBox(java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test3@161479c6]" started-at="2022-10-05T12:01:18 IST" name="handlingJavaScriptAlertBox" finished-at="2022-10-05T12:01:23 IST" duration-ms="4924" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -1421,18 +1454,36 @@
             <line>
               <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
             </line>
+            <line>
+              <![CDATA[<--------Scenario 3: Handling Java Script Alert Box Started-------->]]>
+            </line>
+            <line>
+              <![CDATA[Click Javascript Alerts under Alerts and  Modals ]]>
+            </line>
           </reporter-output>
-        </test-method> <!-- setUrl -->
-        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test1@318ba8c8]" started-at="2022-10-05T02:44:00 IST" name="setup" finished-at="2022-10-05T02:44:18 IST" duration-ms="17970" status="PASS">
+        </test-method> <!-- handlingJavaScriptAlertBox -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test3@161479c6]" started-at="2022-10-05T12:01:23 IST" name="tearDown" finished-at="2022-10-05T12:01:25 IST" duration-ms="2204" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<+======Ending the Test Method =====>]]>
+            </line>
+            <line>
+              <![CDATA[Closing the browser session]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testNG_TestCases.Testng_Test3 -->
+      <class name="testNG_TestCases.Testng_Test1">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test1@6d2a209c]" started-at="2022-10-05T11:59:08 IST" name="setup" finished-at="2022-10-05T12:00:24 IST" duration-ms="76710" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void testNG_TestCases.Testng_Test1.pageTitleValidation()]]>
+                <![CDATA[public void testNG_TestCases.Testng_Test1.checkBoxValidation(java.lang.String) throws java.lang.InterruptedException]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[org.testng.TestRunner@4fbda97b]]>
+                <![CDATA[org.testng.TestRunner@5a8816cc]]>
               </value>
             </param>
             <param index="2">
@@ -1463,17 +1514,42 @@
             </line>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="pageTitleValidation()[pri:0, instance:testNG_TestCases.Testng_Test1@318ba8c8]" started-at="2022-10-05T02:44:18 IST" name="pageTitleValidation" finished-at="2022-10-05T02:44:19 IST" duration-ms="507" status="PASS">
+        <test-method signature="checkBoxValidation(java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test1@6d2a209c]" started-at="2022-10-05T12:00:24 IST" name="checkBoxValidation" finished-at="2022-10-05T12:00:36 IST" duration-ms="11559" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.lambdatest.com/selenium-playground/]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
             <line>
-              <![CDATA[<--------Scenario 1: Page title validation Started-------->]]>
+              <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
             </line>
             <line>
-              <![CDATA[Asserting wrong page Title]]>
+              <![CDATA[<--------Scenario 2: Check Box  validation Started-------->]]>
+            </line>
+            <line>
+              <![CDATA[Click Checkbox Demo under Input Forms]]>
+            </line>
+            <line>
+              <![CDATA[clicked on checkbox demo link]]>
+            </line>
+            <line>
+              <![CDATA[Click the checkbox under the Single Checkbox Demo section]]>
+            </line>
+            <line>
+              <![CDATA[clicked on single checkbox]]>
+            </line>
+            <line>
+              <![CDATA[Validate whether this checkbox is selected ]]>
+            </line>
+            <line>
+              <![CDATA[Now click the checkbox again and validate whether the checkbox is unselected]]>
             </line>
           </reporter-output>
-        </test-method> <!-- pageTitleValidation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test1@318ba8c8]" started-at="2022-10-05T02:44:19 IST" name="tearDown" finished-at="2022-10-05T02:44:21 IST" duration-ms="2014" status="PASS">
+        </test-method> <!-- checkBoxValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test1@6d2a209c]" started-at="2022-10-05T12:00:36 IST" name="tearDown" finished-at="2022-10-05T12:00:38 IST" duration-ms="2017" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[<+======Ending the Test Method =====>]]>
@@ -1485,16 +1561,16 @@
         </test-method> <!-- tearDown -->
       </class> <!-- testNG_TestCases.Testng_Test1 -->
       <class name="testNG_TestCases.Testng_Test2">
-        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test2@6dbb137d]" started-at="2022-10-05T02:44:21 IST" name="setup" finished-at="2022-10-05T02:44:33 IST" duration-ms="12486" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test2@75329a49]" started-at="2022-10-05T12:00:38 IST" name="setup" finished-at="2022-10-05T12:00:54 IST" duration-ms="16243" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void testNG_TestCases.Testng_Test2.checkBoxValidation() throws java.lang.InterruptedException]]>
+                <![CDATA[public void testNG_TestCases.Testng_Test2.pageTitleValidation(java.lang.String)]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[org.testng.TestRunner@4fbda97b]]>
+                <![CDATA[org.testng.TestRunner@5a8816cc]]>
               </value>
             </param>
             <param index="2">
@@ -1525,17 +1601,264 @@
             </line>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="checkBoxValidation()[pri:0, instance:testNG_TestCases.Testng_Test2@6dbb137d]" started-at="2022-10-05T02:44:33 IST" name="checkBoxValidation" finished-at="2022-10-05T02:45:05 IST" duration-ms="31684" status="PASS">
+        <test-method signature="pageTitleValidation(java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test2@75329a49]" started-at="2022-10-05T12:00:54 IST" name="pageTitleValidation" finished-at="2022-10-05T12:00:59 IST" duration-ms="4780" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.lambdatest.com/selenium-playground/]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
+            <line>
+              <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
+            </line>
+            <line>
+              <![CDATA[<--------Scenario 1: Page title validation Started-------->]]>
+            </line>
+            <line>
+              <![CDATA[Asserting wrong page Title]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- pageTitleValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test2@75329a49]" started-at="2022-10-05T12:00:59 IST" name="tearDown" finished-at="2022-10-05T12:01:01 IST" duration-ms="1872" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<+======Ending the Test Method =====>]]>
+            </line>
+            <line>
+              <![CDATA[Closing the browser session]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testNG_TestCases.Testng_Test2 -->
+    </test> <!-- Chrom Browser  testing -->
+  </suite> <!-- TestNG Parallel Test suite -->
+  <suite started-at="2022-10-05T11:55:31 IST" name="Cross Browser Single Test" finished-at="2022-10-05T11:59:08 IST" duration-ms="217093">
+    <groups>
+    </groups>
+    <test started-at="2022-10-05T11:55:31 IST" name="Chrome Browser Testing" finished-at="2022-10-05T11:56:28 IST" duration-ms="57207">
+      <class name="testNG_TestCases.Testng_Test3">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test3@75f32542]" started-at="2022-10-05T11:56:13 IST" name="setup" finished-at="2022-10-05T11:56:22 IST" duration-ms="8856" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testNG_TestCases.Testng_Test3.handlingJavaScriptAlertBox(java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@4b31a708]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[88.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Windows 10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<===== Start of Test Method =====>]]>
+            </line>
+            <line>
+              <![CDATA[Setting desired Capabilities]]>
+            </line>
+            <line>
+              <![CDATA[Connecting to hub/ Grid]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="handlingJavaScriptAlertBox(java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test3@75f32542]" started-at="2022-10-05T11:56:22 IST" name="handlingJavaScriptAlertBox" finished-at="2022-10-05T11:56:26 IST" duration-ms="3863" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.lambdatest.com/selenium-playground/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
+            </line>
+            <line>
+              <![CDATA[<--------Scenario 3: Handling Java Script Alert Box Started-------->]]>
+            </line>
+            <line>
+              <![CDATA[Click Javascript Alerts under Alerts and  Modals ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- handlingJavaScriptAlertBox -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test3@75f32542]" started-at="2022-10-05T11:56:26 IST" name="tearDown" finished-at="2022-10-05T11:56:28 IST" duration-ms="1996" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<+======Ending the Test Method =====>]]>
+            </line>
+            <line>
+              <![CDATA[Closing the browser session]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testNG_TestCases.Testng_Test3 -->
+      <class name="testNG_TestCases.Testng_Test1">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test1@37e547da]" started-at="2022-10-05T11:55:31 IST" name="setup" finished-at="2022-10-05T11:55:42 IST" duration-ms="11729" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testNG_TestCases.Testng_Test1.checkBoxValidation(java.lang.String) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@4b31a708]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[88.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Windows 10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<===== Start of Test Method =====>]]>
+            </line>
+            <line>
+              <![CDATA[Setting desired Capabilities]]>
+            </line>
+            <line>
+              <![CDATA[Connecting to hub/ Grid]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="checkBoxValidation(java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test1@37e547da]" started-at="2022-10-05T11:55:42 IST" name="checkBoxValidation" finished-at="2022-10-05T11:55:57 IST" duration-ms="14238" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.lambdatest.com/selenium-playground/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
+            </line>
             <line>
               <![CDATA[<--------Scenario 2: Check Box  validation Started-------->]]>
             </line>
             <line>
               <![CDATA[Click Checkbox Demo under Input Forms]]>
             </line>
+            <line>
+              <![CDATA[clicked on checkbox demo link]]>
+            </line>
+            <line>
+              <![CDATA[Click the checkbox under the Single Checkbox Demo section]]>
+            </line>
+            <line>
+              <![CDATA[clicked on single checkbox]]>
+            </line>
+            <line>
+              <![CDATA[Validate whether this checkbox is selected ]]>
+            </line>
+            <line>
+              <![CDATA[Now click the checkbox again and validate whether the checkbox is unselected]]>
+            </line>
           </reporter-output>
         </test-method> <!-- checkBoxValidation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test2@6dbb137d]" started-at="2022-10-05T02:45:05 IST" name="tearDown" finished-at="2022-10-05T02:45:07 IST" duration-ms="1898" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test1@37e547da]" started-at="2022-10-05T11:55:57 IST" name="tearDown" finished-at="2022-10-05T11:55:59 IST" duration-ms="1951" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<+======Ending the Test Method =====>]]>
+            </line>
+            <line>
+              <![CDATA[Closing the browser session]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testNG_TestCases.Testng_Test1 -->
+      <class name="testNG_TestCases.Testng_Test2">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test2@7692d9cc]" started-at="2022-10-05T11:55:59 IST" name="setup" finished-at="2022-10-05T11:56:06 IST" duration-ms="7851" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testNG_TestCases.Testng_Test2.pageTitleValidation(java.lang.String)]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@4b31a708]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[88.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Windows 10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<===== Start of Test Method =====>]]>
+            </line>
+            <line>
+              <![CDATA[Setting desired Capabilities]]>
+            </line>
+            <line>
+              <![CDATA[Connecting to hub/ Grid]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="pageTitleValidation(java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test2@7692d9cc]" started-at="2022-10-05T11:56:06 IST" name="pageTitleValidation" finished-at="2022-10-05T11:56:11 IST" duration-ms="4570" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.lambdatest.com/selenium-playground/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
+            </line>
+            <line>
+              <![CDATA[<--------Scenario 1: Page title validation Started-------->]]>
+            </line>
+            <line>
+              <![CDATA[Asserting wrong page Title]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- pageTitleValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test2@7692d9cc]" started-at="2022-10-05T11:56:11 IST" name="tearDown" finished-at="2022-10-05T11:56:13 IST" duration-ms="2059" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[<+======Ending the Test Method =====>]]>
@@ -1547,18 +1870,18 @@
         </test-method> <!-- tearDown -->
       </class> <!-- testNG_TestCases.Testng_Test2 -->
     </test> <!-- Chrome Browser Testing -->
-    <test started-at="2022-10-05T02:45:16 IST" name="Edge Browser Testing" finished-at="2022-10-05T02:46:18 IST" duration-ms="62071">
+    <test started-at="2022-10-05T11:56:28 IST" name="Edge Browser Testing" finished-at="2022-10-05T11:57:20 IST" duration-ms="51971">
       <class name="testNG_TestCases.Testng_Test3">
-        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test3@2bbf180e]" started-at="2022-10-05T02:46:08 IST" name="setup" finished-at="2022-10-05T02:46:15 IST" duration-ms="7156" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test3@25d250c6]" started-at="2022-10-05T11:57:08 IST" name="setup" finished-at="2022-10-05T11:57:15 IST" duration-ms="6460" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void testNG_TestCases.Testng_Test3.handlingJavaScriptAlertBox()]]>
+                <![CDATA[public void testNG_TestCases.Testng_Test3.handlingJavaScriptAlertBox(java.lang.String)]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[org.testng.TestRunner@75f5fd58]]>
+                <![CDATA[org.testng.TestRunner@11e355ca]]>
               </value>
             </param>
             <param index="2">
@@ -1589,29 +1912,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="handlingJavaScriptAlertBox()[pri:0, instance:testNG_TestCases.Testng_Test3@2bbf180e]" started-at="2022-10-05T02:46:15 IST" name="handlingJavaScriptAlertBox" finished-at="2022-10-05T02:46:15 IST" duration-ms="2" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[<--------Scenario 3: Handling Java Script Alert Box Started-------->]]>
-            </line>
-            <line>
-              <![CDATA[Click Javascript Alerts under Alerts and  Modals ]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- handlingJavaScriptAlertBox -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test3@2bbf180e]" started-at="2022-10-05T02:46:15 IST" name="tearDown" finished-at="2022-10-05T02:46:18 IST" duration-ms="2580" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[<+======Ending the Test Method =====>]]>
-            </line>
-            <line>
-              <![CDATA[Closing the browser session]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- testNG_TestCases.Testng_Test3 -->
-      <class name="testNG_TestCases.Testng_Test1">
-        <test-method is-config="true" signature="setUrl(java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test1@4e91d63f]" started-at="2022-10-05T02:45:16 IST" name="setUrl" finished-at="2022-10-05T02:45:16 IST" duration-ms="5" status="PASS">
+        <test-method signature="handlingJavaScriptAlertBox(java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test3@25d250c6]" started-at="2022-10-05T11:57:15 IST" name="handlingJavaScriptAlertBox" finished-at="2022-10-05T11:57:18 IST" duration-ms="3194" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -1623,18 +1924,36 @@
             <line>
               <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
             </line>
+            <line>
+              <![CDATA[<--------Scenario 3: Handling Java Script Alert Box Started-------->]]>
+            </line>
+            <line>
+              <![CDATA[Click Javascript Alerts under Alerts and  Modals ]]>
+            </line>
           </reporter-output>
-        </test-method> <!-- setUrl -->
-        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test1@4e91d63f]" started-at="2022-10-05T02:45:16 IST" name="setup" finished-at="2022-10-05T02:45:21 IST" duration-ms="5501" status="PASS">
+        </test-method> <!-- handlingJavaScriptAlertBox -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test3@25d250c6]" started-at="2022-10-05T11:57:18 IST" name="tearDown" finished-at="2022-10-05T11:57:20 IST" duration-ms="1991" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<+======Ending the Test Method =====>]]>
+            </line>
+            <line>
+              <![CDATA[Closing the browser session]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testNG_TestCases.Testng_Test3 -->
+      <class name="testNG_TestCases.Testng_Test1">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test1@4445629]" started-at="2022-10-05T11:56:28 IST" name="setup" finished-at="2022-10-05T11:56:35 IST" duration-ms="7151" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void testNG_TestCases.Testng_Test1.pageTitleValidation()]]>
+                <![CDATA[public void testNG_TestCases.Testng_Test1.checkBoxValidation(java.lang.String) throws java.lang.InterruptedException]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[org.testng.TestRunner@75f5fd58]]>
+                <![CDATA[org.testng.TestRunner@11e355ca]]>
               </value>
             </param>
             <param index="2">
@@ -1665,17 +1984,42 @@
             </line>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="pageTitleValidation()[pri:0, instance:testNG_TestCases.Testng_Test1@4e91d63f]" started-at="2022-10-05T02:45:21 IST" name="pageTitleValidation" finished-at="2022-10-05T02:45:22 IST" duration-ms="562" status="PASS">
+        <test-method signature="checkBoxValidation(java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test1@4445629]" started-at="2022-10-05T11:56:35 IST" name="checkBoxValidation" finished-at="2022-10-05T11:56:49 IST" duration-ms="13355" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.lambdatest.com/selenium-playground/]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
             <line>
-              <![CDATA[<--------Scenario 1: Page title validation Started-------->]]>
+              <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
             </line>
             <line>
-              <![CDATA[Asserting wrong page Title]]>
+              <![CDATA[<--------Scenario 2: Check Box  validation Started-------->]]>
+            </line>
+            <line>
+              <![CDATA[Click Checkbox Demo under Input Forms]]>
+            </line>
+            <line>
+              <![CDATA[clicked on checkbox demo link]]>
+            </line>
+            <line>
+              <![CDATA[Click the checkbox under the Single Checkbox Demo section]]>
+            </line>
+            <line>
+              <![CDATA[clicked on single checkbox]]>
+            </line>
+            <line>
+              <![CDATA[Validate whether this checkbox is selected ]]>
+            </line>
+            <line>
+              <![CDATA[Now click the checkbox again and validate whether the checkbox is unselected]]>
             </line>
           </reporter-output>
-        </test-method> <!-- pageTitleValidation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test1@4e91d63f]" started-at="2022-10-05T02:45:22 IST" name="tearDown" finished-at="2022-10-05T02:45:24 IST" duration-ms="2478" status="PASS">
+        </test-method> <!-- checkBoxValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test1@4445629]" started-at="2022-10-05T11:56:49 IST" name="tearDown" finished-at="2022-10-05T11:56:50 IST" duration-ms="1965" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[<+======Ending the Test Method =====>]]>
@@ -1687,16 +2031,16 @@
         </test-method> <!-- tearDown -->
       </class> <!-- testNG_TestCases.Testng_Test1 -->
       <class name="testNG_TestCases.Testng_Test2">
-        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test2@d4342c2]" started-at="2022-10-05T02:45:24 IST" name="setup" finished-at="2022-10-05T02:45:33 IST" duration-ms="8999" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test2@45b9a632]" started-at="2022-10-05T11:56:50 IST" name="setup" finished-at="2022-10-05T11:57:02 IST" duration-ms="11418" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void testNG_TestCases.Testng_Test2.checkBoxValidation() throws java.lang.InterruptedException]]>
+                <![CDATA[public void testNG_TestCases.Testng_Test2.pageTitleValidation(java.lang.String)]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[org.testng.TestRunner@75f5fd58]]>
+                <![CDATA[org.testng.TestRunner@11e355ca]]>
               </value>
             </param>
             <param index="2">
@@ -1727,17 +2071,27 @@
             </line>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="checkBoxValidation()[pri:0, instance:testNG_TestCases.Testng_Test2@d4342c2]" started-at="2022-10-05T02:45:33 IST" name="checkBoxValidation" finished-at="2022-10-05T02:46:06 IST" duration-ms="32484" status="PASS">
+        <test-method signature="pageTitleValidation(java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test2@45b9a632]" started-at="2022-10-05T11:57:02 IST" name="pageTitleValidation" finished-at="2022-10-05T11:57:06 IST" duration-ms="4218" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.lambdatest.com/selenium-playground/]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
             <line>
-              <![CDATA[<--------Scenario 2: Check Box  validation Started-------->]]>
+              <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
             </line>
             <line>
-              <![CDATA[Click Checkbox Demo under Input Forms]]>
+              <![CDATA[<--------Scenario 1: Page title validation Started-------->]]>
+            </line>
+            <line>
+              <![CDATA[Asserting wrong page Title]]>
             </line>
           </reporter-output>
-        </test-method> <!-- checkBoxValidation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test2@d4342c2]" started-at="2022-10-05T02:46:06 IST" name="tearDown" finished-at="2022-10-05T02:46:08 IST" duration-ms="2298" status="PASS">
+        </test-method> <!-- pageTitleValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test2@45b9a632]" started-at="2022-10-05T11:57:06 IST" name="tearDown" finished-at="2022-10-05T11:57:08 IST" duration-ms="2210" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[<+======Ending the Test Method =====>]]>
@@ -1749,18 +2103,18 @@
         </test-method> <!-- tearDown -->
       </class> <!-- testNG_TestCases.Testng_Test2 -->
     </test> <!-- Edge Browser Testing -->
-    <test started-at="2022-10-05T02:46:19 IST" name="Firefox Browser Testing" finished-at="2022-10-05T02:47:17 IST" duration-ms="57834">
+    <test started-at="2022-10-05T11:57:20 IST" name="Firefox Browser Testing" finished-at="2022-10-05T11:58:10 IST" duration-ms="50330">
       <class name="testNG_TestCases.Testng_Test3">
-        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test3@5276e6b0]" started-at="2022-10-05T02:47:09 IST" name="setup" finished-at="2022-10-05T02:47:15 IST" duration-ms="5883" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test3@159f197]" started-at="2022-10-05T11:57:56 IST" name="setup" finished-at="2022-10-05T11:58:04 IST" duration-ms="7716" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void testNG_TestCases.Testng_Test3.handlingJavaScriptAlertBox()]]>
+                <![CDATA[public void testNG_TestCases.Testng_Test3.handlingJavaScriptAlertBox(java.lang.String)]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[org.testng.TestRunner@37b70343]]>
+                <![CDATA[org.testng.TestRunner@70d63e05]]>
               </value>
             </param>
             <param index="2">
@@ -1791,29 +2145,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="handlingJavaScriptAlertBox()[pri:0, instance:testNG_TestCases.Testng_Test3@5276e6b0]" started-at="2022-10-05T02:47:15 IST" name="handlingJavaScriptAlertBox" finished-at="2022-10-05T02:47:15 IST" duration-ms="2" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[<--------Scenario 3: Handling Java Script Alert Box Started-------->]]>
-            </line>
-            <line>
-              <![CDATA[Click Javascript Alerts under Alerts and  Modals ]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- handlingJavaScriptAlertBox -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test3@5276e6b0]" started-at="2022-10-05T02:47:15 IST" name="tearDown" finished-at="2022-10-05T02:47:17 IST" duration-ms="2231" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[<+======Ending the Test Method =====>]]>
-            </line>
-            <line>
-              <![CDATA[Closing the browser session]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- testNG_TestCases.Testng_Test3 -->
-      <class name="testNG_TestCases.Testng_Test1">
-        <test-method is-config="true" signature="setUrl(java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test1@12b0404f]" started-at="2022-10-05T02:46:19 IST" name="setUrl" finished-at="2022-10-05T02:46:19 IST" duration-ms="22" status="PASS">
+        <test-method signature="handlingJavaScriptAlertBox(java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test3@159f197]" started-at="2022-10-05T11:58:04 IST" name="handlingJavaScriptAlertBox" finished-at="2022-10-05T11:58:08 IST" duration-ms="4225" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -1825,18 +2157,36 @@
             <line>
               <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
             </line>
+            <line>
+              <![CDATA[<--------Scenario 3: Handling Java Script Alert Box Started-------->]]>
+            </line>
+            <line>
+              <![CDATA[Click Javascript Alerts under Alerts and  Modals ]]>
+            </line>
           </reporter-output>
-        </test-method> <!-- setUrl -->
-        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test1@12b0404f]" started-at="2022-10-05T02:46:19 IST" name="setup" finished-at="2022-10-05T02:46:26 IST" duration-ms="6637" status="PASS">
+        </test-method> <!-- handlingJavaScriptAlertBox -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test3@159f197]" started-at="2022-10-05T11:58:08 IST" name="tearDown" finished-at="2022-10-05T11:58:10 IST" duration-ms="2346" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<+======Ending the Test Method =====>]]>
+            </line>
+            <line>
+              <![CDATA[Closing the browser session]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testNG_TestCases.Testng_Test3 -->
+      <class name="testNG_TestCases.Testng_Test1">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test1@54c562f7]" started-at="2022-10-05T11:57:20 IST" name="setup" finished-at="2022-10-05T11:57:27 IST" duration-ms="7521" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void testNG_TestCases.Testng_Test1.pageTitleValidation()]]>
+                <![CDATA[public void testNG_TestCases.Testng_Test1.checkBoxValidation(java.lang.String) throws java.lang.InterruptedException]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[org.testng.TestRunner@37b70343]]>
+                <![CDATA[org.testng.TestRunner@70d63e05]]>
               </value>
             </param>
             <param index="2">
@@ -1867,17 +2217,42 @@
             </line>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="pageTitleValidation()[pri:0, instance:testNG_TestCases.Testng_Test1@12b0404f]" started-at="2022-10-05T02:46:26 IST" name="pageTitleValidation" finished-at="2022-10-05T02:46:26 IST" duration-ms="377" status="PASS">
+        <test-method signature="checkBoxValidation(java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test1@54c562f7]" started-at="2022-10-05T11:57:27 IST" name="checkBoxValidation" finished-at="2022-10-05T11:57:41 IST" duration-ms="13165" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.lambdatest.com/selenium-playground/]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
             <line>
-              <![CDATA[<--------Scenario 1: Page title validation Started-------->]]>
+              <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
             </line>
             <line>
-              <![CDATA[Asserting wrong page Title]]>
+              <![CDATA[<--------Scenario 2: Check Box  validation Started-------->]]>
+            </line>
+            <line>
+              <![CDATA[Click Checkbox Demo under Input Forms]]>
+            </line>
+            <line>
+              <![CDATA[clicked on checkbox demo link]]>
+            </line>
+            <line>
+              <![CDATA[Click the checkbox under the Single Checkbox Demo section]]>
+            </line>
+            <line>
+              <![CDATA[clicked on single checkbox]]>
+            </line>
+            <line>
+              <![CDATA[Validate whether this checkbox is selected ]]>
+            </line>
+            <line>
+              <![CDATA[Now click the checkbox again and validate whether the checkbox is unselected]]>
             </line>
           </reporter-output>
-        </test-method> <!-- pageTitleValidation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test1@12b0404f]" started-at="2022-10-05T02:46:26 IST" name="tearDown" finished-at="2022-10-05T02:46:29 IST" duration-ms="2232" status="PASS">
+        </test-method> <!-- checkBoxValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test1@54c562f7]" started-at="2022-10-05T11:57:41 IST" name="tearDown" finished-at="2022-10-05T11:57:43 IST" duration-ms="2233" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[<+======Ending the Test Method =====>]]>
@@ -1889,16 +2264,16 @@
         </test-method> <!-- tearDown -->
       </class> <!-- testNG_TestCases.Testng_Test1 -->
       <class name="testNG_TestCases.Testng_Test2">
-        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test2@769e7ee8]" started-at="2022-10-05T02:46:29 IST" name="setup" finished-at="2022-10-05T02:46:35 IST" duration-ms="6634" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test2@647fd8ce]" started-at="2022-10-05T11:57:43 IST" name="setup" finished-at="2022-10-05T11:57:51 IST" duration-ms="7700" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void testNG_TestCases.Testng_Test2.checkBoxValidation() throws java.lang.InterruptedException]]>
+                <![CDATA[public void testNG_TestCases.Testng_Test2.pageTitleValidation(java.lang.String)]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[org.testng.TestRunner@37b70343]]>
+                <![CDATA[org.testng.TestRunner@70d63e05]]>
               </value>
             </param>
             <param index="2">
@@ -1929,17 +2304,27 @@
             </line>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="checkBoxValidation()[pri:0, instance:testNG_TestCases.Testng_Test2@769e7ee8]" started-at="2022-10-05T02:46:35 IST" name="checkBoxValidation" finished-at="2022-10-05T02:47:07 IST" duration-ms="31606" status="PASS">
+        <test-method signature="pageTitleValidation(java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test2@647fd8ce]" started-at="2022-10-05T11:57:51 IST" name="pageTitleValidation" finished-at="2022-10-05T11:57:54 IST" duration-ms="3204" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.lambdatest.com/selenium-playground/]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
             <line>
-              <![CDATA[<--------Scenario 2: Check Box  validation Started-------->]]>
+              <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
             </line>
             <line>
-              <![CDATA[Click Checkbox Demo under Input Forms]]>
+              <![CDATA[<--------Scenario 1: Page title validation Started-------->]]>
+            </line>
+            <line>
+              <![CDATA[Asserting wrong page Title]]>
             </line>
           </reporter-output>
-        </test-method> <!-- checkBoxValidation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test2@769e7ee8]" started-at="2022-10-05T02:47:07 IST" name="tearDown" finished-at="2022-10-05T02:47:09 IST" duration-ms="2197" status="PASS">
+        </test-method> <!-- pageTitleValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test2@647fd8ce]" started-at="2022-10-05T11:57:54 IST" name="tearDown" finished-at="2022-10-05T11:57:56 IST" duration-ms="2212" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[<+======Ending the Test Method =====>]]>
@@ -1951,18 +2336,18 @@
         </test-method> <!-- tearDown -->
       </class> <!-- testNG_TestCases.Testng_Test2 -->
     </test> <!-- Firefox Browser Testing -->
-    <test started-at="2022-10-05T02:47:17 IST" name="Internet Explorer Testing" finished-at="2022-10-05T02:48:17 IST" duration-ms="59521">
+    <test started-at="2022-10-05T11:58:10 IST" name="Internet Explorer Testing" finished-at="2022-10-05T11:59:08 IST" duration-ms="57421">
       <class name="testNG_TestCases.Testng_Test3">
-        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test3@5dd6264]" started-at="2022-10-05T02:48:07 IST" name="setup" finished-at="2022-10-05T02:48:15 IST" duration-ms="7304" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test3@12e61fe6]" started-at="2022-10-05T11:58:50 IST" name="setup" finished-at="2022-10-05T11:59:02 IST" duration-ms="11236" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void testNG_TestCases.Testng_Test3.handlingJavaScriptAlertBox()]]>
+                <![CDATA[public void testNG_TestCases.Testng_Test3.handlingJavaScriptAlertBox(java.lang.String)]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[org.testng.TestRunner@306851c7]]>
+                <![CDATA[org.testng.TestRunner@e11ecfa]]>
               </value>
             </param>
             <param index="2">
@@ -1993,29 +2378,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="handlingJavaScriptAlertBox()[pri:0, instance:testNG_TestCases.Testng_Test3@5dd6264]" started-at="2022-10-05T02:48:15 IST" name="handlingJavaScriptAlertBox" finished-at="2022-10-05T02:48:15 IST" duration-ms="3" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[<--------Scenario 3: Handling Java Script Alert Box Started-------->]]>
-            </line>
-            <line>
-              <![CDATA[Click Javascript Alerts under Alerts and  Modals ]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- handlingJavaScriptAlertBox -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test3@5dd6264]" started-at="2022-10-05T02:48:15 IST" name="tearDown" finished-at="2022-10-05T02:48:17 IST" duration-ms="1988" status="PASS">
-          <reporter-output>
-            <line>
-              <![CDATA[<+======Ending the Test Method =====>]]>
-            </line>
-            <line>
-              <![CDATA[Closing the browser session]]>
-            </line>
-          </reporter-output>
-        </test-method> <!-- tearDown -->
-      </class> <!-- testNG_TestCases.Testng_Test3 -->
-      <class name="testNG_TestCases.Testng_Test1">
-        <test-method is-config="true" signature="setUrl(java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test1@159f197]" started-at="2022-10-05T02:47:17 IST" name="setUrl" finished-at="2022-10-05T02:47:17 IST" duration-ms="4" status="PASS">
+        <test-method signature="handlingJavaScriptAlertBox(java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test3@12e61fe6]" started-at="2022-10-05T11:59:02 IST" name="handlingJavaScriptAlertBox" finished-at="2022-10-05T11:59:06 IST" duration-ms="4305" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -2027,18 +2390,36 @@
             <line>
               <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
             </line>
+            <line>
+              <![CDATA[<--------Scenario 3: Handling Java Script Alert Box Started-------->]]>
+            </line>
+            <line>
+              <![CDATA[Click Javascript Alerts under Alerts and  Modals ]]>
+            </line>
           </reporter-output>
-        </test-method> <!-- setUrl -->
-        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test1@159f197]" started-at="2022-10-05T02:47:17 IST" name="setup" finished-at="2022-10-05T02:47:24 IST" duration-ms="7073" status="PASS">
+        </test-method> <!-- handlingJavaScriptAlertBox -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test3@12e61fe6]" started-at="2022-10-05T11:59:06 IST" name="tearDown" finished-at="2022-10-05T11:59:08 IST" duration-ms="1887" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<+======Ending the Test Method =====>]]>
+            </line>
+            <line>
+              <![CDATA[Closing the browser session]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testNG_TestCases.Testng_Test3 -->
+      <class name="testNG_TestCases.Testng_Test1">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test1@51e5fc98]" started-at="2022-10-05T11:58:10 IST" name="setup" finished-at="2022-10-05T11:58:19 IST" duration-ms="8802" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void testNG_TestCases.Testng_Test1.pageTitleValidation()]]>
+                <![CDATA[public void testNG_TestCases.Testng_Test1.checkBoxValidation(java.lang.String) throws java.lang.InterruptedException]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[org.testng.TestRunner@306851c7]]>
+                <![CDATA[org.testng.TestRunner@e11ecfa]]>
               </value>
             </param>
             <param index="2">
@@ -2069,17 +2450,42 @@
             </line>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="pageTitleValidation()[pri:0, instance:testNG_TestCases.Testng_Test1@159f197]" started-at="2022-10-05T02:47:24 IST" name="pageTitleValidation" finished-at="2022-10-05T02:47:25 IST" duration-ms="540" status="PASS">
+        <test-method signature="checkBoxValidation(java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test1@51e5fc98]" started-at="2022-10-05T11:58:19 IST" name="checkBoxValidation" finished-at="2022-10-05T11:58:35 IST" duration-ms="15405" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.lambdatest.com/selenium-playground/]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
             <line>
-              <![CDATA[<--------Scenario 1: Page title validation Started-------->]]>
+              <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
             </line>
             <line>
-              <![CDATA[Asserting wrong page Title]]>
+              <![CDATA[<--------Scenario 2: Check Box  validation Started-------->]]>
+            </line>
+            <line>
+              <![CDATA[Click Checkbox Demo under Input Forms]]>
+            </line>
+            <line>
+              <![CDATA[clicked on checkbox demo link]]>
+            </line>
+            <line>
+              <![CDATA[Click the checkbox under the Single Checkbox Demo section]]>
+            </line>
+            <line>
+              <![CDATA[clicked on single checkbox]]>
+            </line>
+            <line>
+              <![CDATA[Validate whether this checkbox is selected ]]>
+            </line>
+            <line>
+              <![CDATA[Now click the checkbox again and validate whether the checkbox is unselected]]>
             </line>
           </reporter-output>
-        </test-method> <!-- pageTitleValidation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test1@159f197]" started-at="2022-10-05T02:47:25 IST" name="tearDown" finished-at="2022-10-05T02:47:27 IST" duration-ms="1800" status="PASS">
+        </test-method> <!-- checkBoxValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test1@51e5fc98]" started-at="2022-10-05T11:58:35 IST" name="tearDown" finished-at="2022-10-05T11:58:36 IST" duration-ms="1959" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[<+======Ending the Test Method =====>]]>
@@ -2091,16 +2497,16 @@
         </test-method> <!-- tearDown -->
       </class> <!-- testNG_TestCases.Testng_Test1 -->
       <class name="testNG_TestCases.Testng_Test2">
-        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test2@78aab498]" started-at="2022-10-05T02:47:27 IST" name="setup" finished-at="2022-10-05T02:47:32 IST" duration-ms="5461" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.reflect.Method,org.testng.ITestContext,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test2@7c469c48]" started-at="2022-10-05T11:58:36 IST" name="setup" finished-at="2022-10-05T11:58:44 IST" duration-ms="7884" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[public void testNG_TestCases.Testng_Test2.checkBoxValidation() throws java.lang.InterruptedException]]>
+                <![CDATA[public void testNG_TestCases.Testng_Test2.pageTitleValidation(java.lang.String)]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[org.testng.TestRunner@306851c7]]>
+                <![CDATA[org.testng.TestRunner@e11ecfa]]>
               </value>
             </param>
             <param index="2">
@@ -2131,17 +2537,27 @@
             </line>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="checkBoxValidation()[pri:0, instance:testNG_TestCases.Testng_Test2@78aab498]" started-at="2022-10-05T02:47:32 IST" name="checkBoxValidation" finished-at="2022-10-05T02:48:05 IST" duration-ms="33362" status="PASS">
+        <test-method signature="pageTitleValidation(java.lang.String)[pri:0, instance:testNG_TestCases.Testng_Test2@7c469c48]" started-at="2022-10-05T11:58:44 IST" name="pageTitleValidation" finished-at="2022-10-05T11:58:48 IST" duration-ms="4132" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.lambdatest.com/selenium-playground/]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
             <line>
-              <![CDATA[<--------Scenario 2: Check Box  validation Started-------->]]>
+              <![CDATA[Step 1:Open LambdaTest’s Selenium Playground from]]>
             </line>
             <line>
-              <![CDATA[Click Checkbox Demo under Input Forms]]>
+              <![CDATA[<--------Scenario 1: Page title validation Started-------->]]>
+            </line>
+            <line>
+              <![CDATA[Asserting wrong page Title]]>
             </line>
           </reporter-output>
-        </test-method> <!-- checkBoxValidation -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test2@78aab498]" started-at="2022-10-05T02:48:05 IST" name="tearDown" finished-at="2022-10-05T02:48:07 IST" duration-ms="1981" status="PASS">
+        </test-method> <!-- pageTitleValidation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testNG_TestCases.Testng_Test2@7c469c48]" started-at="2022-10-05T11:58:49 IST" name="tearDown" finished-at="2022-10-05T11:58:50 IST" duration-ms="1802" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[<+======Ending the Test Method =====>]]>

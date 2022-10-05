@@ -2,19 +2,19 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <parameter name="url" value="https://www.lambdatest.com/selenium-playground/"/>
-  <test thread-count="5" name="Testing(failed)">
+  <test thread-count="5" name="Browser Testing(failed)">
     <parameter name="browser" value="Chrome"/>
     <parameter name="version" value="88.0"/>
     <parameter name="platform" value="Windows 10"/>
     <classes>
-      <class name="testNG_TestCases.CheckBox">
+      <class name="testNG_TestCases.Testng_Test2">
         <methods>
           <include name="tearDown"/>
           <include name="setUrl"/>
           <include name="checkBoxValidation"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- testNG_TestCases.CheckBox -->
+      </class> <!-- testNG_TestCases.Testng_Test2 -->
     </classes>
-  </test> <!-- Testing(failed) -->
+  </test> <!-- Browser Testing(failed) -->
 </suite> <!-- Failed suite [Suite] -->

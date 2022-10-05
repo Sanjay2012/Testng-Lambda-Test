@@ -3,7 +3,6 @@ package com.lambdatest.basetest;
 import java.lang.reflect.Method;
 import java.net.MalformedURLException;
 import java.net.URL;
-import java.time.Duration;
 
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.interactions.Actions;
@@ -15,7 +14,6 @@ import org.testng.ITestContext;
 import org.testng.Reporter;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Parameters;
 import org.testng.asserts.SoftAssert;
 
@@ -48,7 +46,7 @@ public class BaseTest {
 		caps.setCapability("visual", true); // To enable step by step screenshot
 		caps.setCapability("video", true); // To enable video recording
 		caps.setCapability("console", true); // To capture console logs
-		caps.setCapability("build", "TestNG Lambda-Test");
+		caps.setCapability("build", "Lambda-Test-TESTNG");
 		caps.setCapability("name", m.getName() + this.getClass().getName());
 		caps.setCapability("plugin", "git-testng");
 		
@@ -63,20 +61,6 @@ public class BaseTest {
 		
 		
 	}
-	@Parameters(value = { "url" })
-	@BeforeTest
-	public void setUrl(String url) {
-		Reporter.log("Step 1:Open LambdaTest’s Selenium Playground from",true);
-			try {
-				driver.get(url);
-				driver.manage().window().maximize();
-				driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
-				driver.manage().timeouts().pageLoadTimeout(Duration.ofSeconds(20));
-			} catch (Exception e) {
-				e.printStackTrace();
-			}
-	}
-
 	@AfterMethod
 	public void tearDown() {
 		Reporter.log("<+======Ending the Test Method =====>", true);
