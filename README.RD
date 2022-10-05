@@ -5,18 +5,6 @@ Step to be follow to run the project from command prompt
 2. Clean and compile projct directory using maven command
 > drive\LambdaTest-Selenium101>	mvn clean copile
 
--------------------------------------------------------
-if compilation eror then need to change maven compiler plugin release from 12 to 11
-
-			<plugin>
-				<artifactId>maven-compiler-plugin</artifactId>
-				<version>3.7.0</version>
-				<configuration>
-					<release>11</release>
-				</configuration>
-			</plugin>
-			
------------------------------------------------------------------
 3. run specific suite from project
 
 Note: I have created two suites 
